@@ -1,4 +1,5 @@
-from tkinter import Tk,Button,Frame,Label,filedialog, ttk, Menu, Toplevel
+# -*- coding: utf-8 -*-
+from tkinter import Tk,Button,Frame,Label,filedialog, ttk, Menu, Toplevel, Entry
 import os as os
 import tkinter as tkinter
 import csv as csv
@@ -11,8 +12,9 @@ import csv as csv
 """
 class Application(Frame):
     #Design des Fensters und deren Darstellung
-    def __init__(self, parent):
-        Frame.__init__(self, parent)        
+
+    def __init__(self, master=None):
+        Frame.__init__(self, master)        
        
         self.lst_abschluss=[]        
         #print("Leer: ",self.lst_abschluss)        
@@ -86,8 +88,7 @@ class Application(Frame):
         self.note_l.grid(row=7,column=0,sticky='w')
 
         self.select_button = Button(root,text="Datei",command=self.datei_waehlen)
-        self.select_button.grid(row=8,column=0,sticky='w')
-        
+        self.select_button.grid(row=8,column=0,sticky='w')  
         self.save_button = Button(root,text="Save",command=self.save_file)
         self.save_button.grid(row=8,column=0,sticky='e')
 
@@ -100,13 +101,6 @@ class Application(Frame):
         
         self.vorschau_button = Button(root,text="Dateiname Vorschau",command=self.dateiname_vorschau)
         self.vorschau_button.grid(row=10,column=0)
-        
-        self.add_modul_b = Button(root, text="Modul hinzufügen",command=self.add_modul)
-        self.add_modul_b.grid(row=2,column=2)
-        
-        self.add_dozent_b = Button(root, text="Dozent hinzufügen",command=self.add_dozent)
-        self.add_dozent_b.grid(row=3,column=2)
-        
         
     def drop_refresh(self):                             
         self.drop_abschluss = ttk.Combobox(root,textvariable=self.var_abschluss,values=self.lst_abschluss)
@@ -126,6 +120,33 @@ class Application(Frame):
         self.drop_note = ttk.Combobox(root,textvariable=self.var_note,values=self.lst_note)
         self.drop_note.grid(row=7,column=1)
         
+    def mainmenu(self):
+        filemenu = Menu(menubar, tearoff=0)
+        filemenu.add_command(label="New", command=self.donothing)
+        filemenu.add_command(label="Open", command=self.donothing)
+        filemenu.add_command(label="Save", command=self.donothing)
+        filemenu.add_command(label="Save as...", command=self.donothing)
+        filemenu.add_command(label="Close", command=self.donothing)      
+        filemenu.add_separator()      
+        filemenu.add_command(label="Exit", command=self.donothing)    
+        menubar.add_cascade(label="Datei", menu=filemenu)
+
+        editmenu = Menu(menubar, tearoff=0)
+        editmenu.add_command(label="Dozent hinzufügen", command=self.add_dozent)
+        editmenu.add_command(label="Modul hinzufügen", command=self.add_modul)
+        editmenu.add_separator() 
+        editmenu.add_command(label="Dozent entfernen", command=self.del_dozent)
+        editmenu.add_command(label="Modul entfernen", command=self.del_modul)             
+        menubar.add_cascade(label="Bearbeiten", menu=editmenu)
+
+        helpmenu = Menu(menubar, tearoff=0)
+        helpmenu.add_command(label="Help Index", command=self.donothing)
+        helpmenu.add_command(label="About...", command=self.about)
+        menubar.add_cascade(label="About", menu=helpmenu)
+
+    def donothing(self):
+        button = Button(root, text="Do nothing button")
+        button.pack()
     
     def datei_waehlen(self):
         self.filepath=filedialog.askopenfilename()
@@ -147,22 +168,7 @@ class Application(Frame):
     def make_dir(self):
         if not os.path.exists(self.EndPath):
             os.makedirs(self.EndPath)
-            
-    def add_modul(self):
-        self.create_window_modul()  
-        eintrag = self.var_modul.get()
-        if not eintrag in self.lst_modul:
-            
-            self.lst_modul.append(eintrag)
-        #print(eintrag,self.lst_modul)
-        self.drop_refresh()
-            
-    def add_dozent(self):
-        self.create_window_dozent()        
-        eintrag = self.var_dozent.get()
-        if not eintrag in self.lst_dozent:
-            self.lst_dozent.append(eintrag)
-
+           
     def save_file(self):
         self.drop_refresh()
         self.target_directory()
@@ -170,57 +176,89 @@ class Application(Frame):
         self.make_dir()
         os.rename(self.filepath,self.EndPath+"/"+self.newName)
         print(self.EndPath+"/"+self.newName)
-            
- 
-    def mainmenu(self):
-        filemenu = Menu(menubar, tearoff=0)
-        filemenu.add_command(label="New", command=self.donothing)
-        filemenu.add_command(label="Open", command=self.donothing)
-        filemenu.add_command(label="Save", command=self.donothing)
-        filemenu.add_command(label="Save as...", command=self.donothing)
-        filemenu.add_command(label="Close", command=self.donothing)      
-        filemenu.add_separator()      
-        filemenu.add_command(label="Exit", command=self.donothing)    
-        menubar.add_cascade(label="Datei", menu=filemenu)
 
-        editmenu = Menu(menubar, tearoff=0)
-        editmenu.add_command(label="Dozent hinzufügen", command=self.add_dozent)
-        editmenu.add_command(label="Modul hinzufügen", command=self.add_modul)
-        editmenu.add_command(label="Noch nicht genutzt", command=self.donothing)
-       
-        menubar.add_cascade(label="Bearbeiten", menu=editmenu)
-
-        helpmenu = Menu(menubar, tearoff=0)
-        helpmenu.add_command(label="Help Index", command=self.donothing)
-        helpmenu.add_command(label="About...", command=self.donothing)
-        menubar.add_cascade(label="About", menu=helpmenu)
-
-    def donothing(self):
-        button = Button(root, text="Do nothing button")
-        button.pack()
-       
-    def create_window_dozent(self):
-        t = Toplevel(self)
+    def about(self):
+        t = Toplevel(root)
         t.wm_attributes('-topmost',-1)
-        t.wm_title("Dozenten anpassen" )
-        l = Label(t, text="Fenster für neue Dozenten" )
-        l.pack(side="top", fill="both", expand=True, padx=100, pady=100)      
+        t.wm_title("Impressum, About" )
+        t.wm_geometry('500x600+10+10')
+        l = Label(t, text="Impressum, etc" )
+        l.pack(side="top", fill="both", expand=True)
 
-    def create_window_modul(self):
-        t = Toplevel(self)
-        t.wm_attributes('-topmost',-1)
-        t.wm_title("Module anpassen" )
-        l = Label(t, text="Fenster für neue Module" )
-        l.pack(side="top", fill="both", expand=True, padx=100, pady=100)
-      
+    def add_modul(self):
+        popup_add_modul = Toplevel(root)
+        popup_add_modul.wm_attributes('-topmost',-1)
+        popup_add_modul.wm_title("Modul hinzufügen" )
+        popup_add_modul.wm_geometry('250x100+10+500')
+        #popup_add_dozent = Label(self.popup_add_dozent, text="Hier könnte ein Fließtext stehen" )
+        
+        Label(popup_add_modul, text="Modulnummer").grid(row=0)
+        Label(popup_add_modul, text="Modulname").grid(row=1)
+        
+        modulnummer = Entry(popup_add_modul)
+        modulnummer.grid(row=0, column=1)
+        
+        modulname = Entry(popup_add_modul)
+        modulname.grid(row=1, column=1)
+        
+        # Hier muss noch die übergabe an die CSV gemacht werden.
+        # GGF ein weiters Popup mit der frage ob es übernommen werden soll
+        Eingabeende = Button(popup_add_modul,text="übernehmen", command=self.donothing)
+        Eingabeende.grid(row=4, column=1)
+
+    def add_dozent(self):
+        popup_add_dozent = Toplevel(root)
+        popup_add_dozent.wm_attributes('-topmost',-1)
+        popup_add_dozent.wm_title("Dozent hinzufügen" )
+        popup_add_dozent.wm_geometry('250x100+10+350')
+        #popup_add_dozent = Label(self.popup_add_dozent, text="Hier könnte ein Fließtext stehen" )
+        
+        Label(popup_add_dozent, text="Dozentenname").grid(row=0)
+        
+        Dozentenname = Entry(popup_add_dozent)
+        Dozentenname.grid(row=0, column=1)
+        
+        # Hier muss noch die übergabe an die CSV gemacht werden.     
+        # GGF ein weiters Popup mit der frage ob es übernommen werden soll
+        Eingabeende = Button(popup_add_dozent,text="übernehmen", command=self.donothing)
+        Eingabeende.grid(row=4, column=1)
+
+    def del_modul(self):
+        self.popup_del_modul = Toplevel(root)
+        self.popup_del_modul.wm_attributes('-topmost',-1)
+        self.popup_del_modul.wm_title("Modul entfernen" )
+        self.popup_del_modul.wm_geometry('250x100+260+500')
+        #popup_del_dozent = Label(self.popup_add_dozent, text="Hier könnte ein Fließtext stehen" )
+        
+       
+        # Hier muss noch die übergabe an die CSV gemacht werden.
+        # GGF ein weiters Popup mit der frage ob es übernommen werden soll
+        Eingabeende = Button(self.popup_del_modul,text="übernehmen", command=self.donothing)
+        Eingabeende.grid(row=4, column=1)
+
+    def del_dozent(self):
+        popup_del_dozent = Toplevel(root)
+        popup_del_dozent.wm_attributes('-topmost',-1)
+        popup_del_dozent.wm_title("Dozent entfernen" )
+        popup_del_dozent.wm_geometry('250x100+260+350')
+        #popup_del_dozent = Label(self.popup_add_dozent, text="Hier könnte ein Fließtext stehen" )
+        
+        Label(popup_del_dozent, text="Dozentenname").grid(row=0)
+        
+        Dozentenname = Entry(popup_del_dozent)
+        Dozentenname.grid(row=0, column=1)
+        
+        # Hier muss noch die übergabe an die CSV gemacht werden.     
+        # GGF ein weiters Popup mit der frage ob es übernommen werden soll
+        Eingabeende = Button(popup_del_dozent,text="übernehmen", command=self.donothing)
+        Eingabeende.grid(row=4, column=1)
+
+
 root = Tk()
 root.title("LUIS Beuth Renamer") 
 menubar=Menu(root)
 root.config(menu=menubar)
 root.wm_attributes('-topmost',-1)
-try:
-     root.state('zoomed')
-except tkinter.TclError:
-     root.attributes('-zoomed', True) 
-app = Application(parent=root)
+root.wm_geometry('500x280+10+10') 
+app = Application(master=root)
 app.mainloop()
