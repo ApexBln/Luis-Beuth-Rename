@@ -1,4 +1,4 @@
-from tkinter import Tk,Button,Frame,Label,filedialog, ttk
+from tkinter import Tk,Button,Frame,Label,filedialog, ttk, Menu, Toplevel
 import os as os
 import tkinter as tkinter
 import csv as csv
@@ -10,13 +10,12 @@ import csv as csv
 -Öffnen der Ursprungsdatei (Vorschau)
 """
 class Application(Frame):
-    def __init__(self, master=None):
-        Frame.__init__(self, master)        
-
-        root.title("LUIS Beuth Renamer")
-        root.attributes('-zoomed', True)
+    
+    def __init__(self, parent):
+        Frame.__init__(self, parent)        
+       
         self.lst_abschluss=[]        
-        print("Leer: ",self.lst_abschluss)        
+        #print("Leer: ",self.lst_abschluss)        
         self.lst_studiengang=[]
         self.lst_modul=[]
         self.lst_semester=[]
@@ -36,10 +35,9 @@ class Application(Frame):
         self.lst_przr=self.total_content[5]
         self.lst_version=self.total_content[6]
         self.lst_note=self.total_content[7]
-        print(self.lst_abschluss)
-        print(self.lst_studiengang)
-                    
-                    
+        #print(self.lst_abschluss)
+        #print(self.lst_studiengang)
+                             
 
         self.var_abschluss = tkinter.StringVar()
         self.var_abschluss.set("unbekannt")    
@@ -66,7 +64,7 @@ class Application(Frame):
         self.var_note.set("unbekannt")        
         self.create_widgets()
         self.drop_refresh()
-    
+        self.mainmenu()
     
     
     def create_widgets(self):
@@ -159,6 +157,7 @@ class Application(Frame):
         self.drop_refresh()
             
     def add_dozent(self):
+        self.create_window()        
         eintrag = self.var_dozent.get()
         if not eintrag in self.lst_dozent:
             self.lst_dozent.append(eintrag)
@@ -170,7 +169,50 @@ class Application(Frame):
         self.make_dir()
         os.rename(self.filepath,self.EndPath+"/"+self.newName)
         print(self.EndPath+"/"+self.newName)
+            
+ 
+    def mainmenu(self):
+        filemenu = Menu(menubar, tearoff=0)
+        filemenu.add_command(label="New", command=self.donothing)
+        filemenu.add_command(label="Open", command=self.donothing)
+        filemenu.add_command(label="Save", command=self.donothing)
+        filemenu.add_command(label="Save as...", command=self.donothing)
+        filemenu.add_command(label="Close", command=self.donothing)      
+        filemenu.add_separator()      
+        filemenu.add_command(label="Exit", command=self.donothing)    
+        menubar.add_cascade(label="Datei", menu=filemenu)
 
+        editmenu = Menu(menubar, tearoff=0)
+        editmenu.add_command(label="Dozent hinzufügen", command=self.add_dozent)
+        editmenu.add_command(label="Modul hinzufügen", command=self.donothing)
+        editmenu.add_command(label="Noch nicht genutzt", command=self.donothing)
+       
+        menubar.add_cascade(label="Bearbeiten", menu=editmenu)
+
+        helpmenu = Menu(menubar, tearoff=0)
+        helpmenu.add_command(label="Help Index", command=self.donothing)
+        helpmenu.add_command(label="About...", command=self.donothing)
+        menubar.add_cascade(label="About", menu=helpmenu)
+
+    def donothing(self):
+        button = Button(root, text="Do nothing button")
+        button.pack()
+       
+    def create_window(self):
+        t = Toplevel(self)
+        t.wm_attributes('-topmost',-1)
+        t.wm_title("Window" )
+        l = Label(t, text="This is window " )
+        l.pack(side="top", fill="both", expand=True, padx=100, pady=100)      
+      
 root = Tk()
-app = Application(master=root)
+root.title("LUIS Beuth Renamer") 
+menubar=Menu(root)
+root.config(menu=menubar)
+root.wm_attributes('-topmost',-1)
+try:
+     root.state('zoomed')
+except tkinter.TclError:
+     root.attributes('-zoomed', True) 
+app = Application(parent=root)
 app.mainloop()
