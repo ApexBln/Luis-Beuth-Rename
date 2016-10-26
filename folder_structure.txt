@@ -1,0 +1,1749 @@
+Auflistung der Ordnerpfade fÅr Volume Daten
+Volumeseriennummer : 283D-3FA4
+Z:.
+01 - Altklausuren
+≥   'Unsortiert
+≥   ≥   Altklausuren unsortiert
+≥   ≥   ≥   Bauingenieurwesen
+≥   ≥   ≥   ≥   DIN
+≥   ≥   ≥   ≥   ≥   DIN Normen
+≥   ≥   ≥   ≥   ≥       Geotechnik
+≥   ≥   ≥   ≥   ≥       Holz
+≥   ≥   ≥   ≥   ≥       Mauerwerk
+≥   ≥   ≥   ≥   ≥       Sicherheitskonzept
+≥   ≥   ≥   ≥   ≥       Stahlbau
+≥   ≥   ≥   ≥   ≥       Stahlbeton
+≥   ≥   ≥   ≥   Master
+≥   ≥   ≥   ≥       Bauphysik
+≥   ≥   ≥   ≥       Bauwerksdiagnostik-Bauen im Bestand
+≥   ≥   ≥   ≥       Betontechnologie II
+≥   ≥   ≥   ≥       Brandtschutz
+≥   ≥   ≥   ≥       FEM, Statik, Dynamik
+≥   ≥   ≥   ≥       Spannbeton
+≥   ≥   ≥   ≥       ≥   Formelsammlung
+≥   ≥   ≥   ≥       Stahlbau
+≥   ≥   ≥   Geotechnik grundlagen
+≥   ≥   ≥   Ingenieurbau Klausur
+≥   ≥   ≥   INI RAUM
+≥   ≥   ≥   ≥   Bauko1 Himburg
+≥   ≥   ≥   ≥   Baustoffe1 Beck
+≥   ≥   ≥   ≥   Baustoffe2 Meng
+≥   ≥   ≥   ≥   VWP
+≥   ≥   ≥   Karthographie
+≥   ≥   ≥   ≥   scan
+≥   ≥   ≥   Klausuren1
+≥   ≥   ≥   ≥   baustatik
+≥   ≥   ≥   ≥   Geotechnik 1
+≥   ≥   ≥   ≥   hydraulik
+≥   ≥   ≥   ≥   tm2
+≥   ≥   ≥   Mathe1
+≥   ≥   Altklausuren_2
+≥   ≥   ≥   1.Semester
+≥   ≥   ≥   ≥   AWE
+≥   ≥   ≥   ≥   ≥   antik_grich_geschichte
+≥   ≥   ≥   ≥   Bauko I
+≥   ≥   ≥   ≥   Bauko1
+≥   ≥   ≥   ≥   Bauko1kkk
+≥   ≥   ≥   ≥   baukoI
+≥   ≥   ≥   ≥   Baukonstruktion_Kickler
+≥   ≥   ≥   ≥   Baustoffe 1_ Beck
+≥   ≥   ≥   ≥   Baustoffe1
+≥   ≥   ≥   ≥   Baustoffe1kkk
+≥   ≥   ≥   ≥   BaustoffeI
+≥   ≥   ≥   ≥   Baustoffe_Beck
+≥   ≥   ≥   ≥   klausur
+≥   ≥   ≥   ≥   klausur 1
+≥   ≥   ≥   ≥   klausur 2
+≥   ≥   ≥   ≥   klausur 3
+≥   ≥   ≥   ≥   klausur 4
+≥   ≥   ≥   ≥   klausur bauko 1.sem
+≥   ≥   ≥   ≥   klausur baustoffe 1
+≥   ≥   ≥   ≥   klausur tm semester1
+≥   ≥   ≥   ≥   ≥   tm1
+≥   ≥   ≥   ≥   klausur Verkehrswesen 1. sem
+≥   ≥   ≥   ≥   mathe stephan
+≥   ≥   ≥   ≥   Mathe11111 Klausur
+≥   ≥   ≥   ≥   Mathe2 Klausur
+≥   ≥   ≥   ≥   Mathe_
+≥   ≥   ≥   ≥   Technische_Mechanik_Fehlau
+≥   ≥   ≥   ≥   TM1
+≥   ≥   ≥   ≥   TM1kk
+≥   ≥   ≥   ≥   Verkehrswesen
+≥   ≥   ≥   ≥   verkehrswesen 1 FS
+≥   ≥   ≥   ≥   Verkehrswesen2
+≥   ≥   ≥   ≥   Verkehrswesen_FÅsser
+≥   ≥   ≥   ≥   Vermessung
+≥   ≥   ≥   ≥   ≥   2.Semester
+≥   ≥   ≥   ≥   ≥       DV_CAD_II
+≥   ≥   ≥   ≥   ≥       IK_II
+≥   ≥   ≥   ≥   ≥       Mathem._Methoden_der_GeodÑsie_II
+≥   ≥   ≥   ≥   ≥       VK_II
+≥   ≥   ≥   ≥   Vermessung Klausur
+≥   ≥   ≥   2.Semester
+≥   ≥   ≥   ≥   -Hydraulik
+≥   ≥   ≥   ≥   bauko2
+≥   ≥   ≥   ≥   baukoII
+≥   ≥   ≥   ≥   Baukonstruktion_II
+≥   ≥   ≥   ≥   Baustoffe 2
+≥   ≥   ≥   ≥   hydr
+≥   ≥   ≥   ≥   ≥   hydraulik
+≥   ≥   ≥   ≥   Hydraulik
+≥   ≥   ≥   ≥   Hydraulik_
+≥   ≥   ≥   ≥   Hydraulik_Heimann
+≥   ≥   ≥   ≥   Klausuren
+≥   ≥   ≥   ≥   ≥   Hydraulik
+≥   ≥   ≥   ≥   Mathe
+≥   ≥   ≥   ≥   TM2
+≥   ≥   ≥   ≥   Verkehrswegeplanung_GÅnther
+≥   ≥   ≥   ≥   VWP
+≥   ≥   ≥   3.Semester
+≥   ≥   ≥   ≥   Baubetrieb
+≥   ≥   ≥   ≥   Baubetrieb 1
+≥   ≥   ≥   ≥   baubetrieb 1 Rechnung
+≥   ≥   ≥   ≥   Baubetrieb1
+≥   ≥   ≥   ≥   Bauphysik1
+≥   ≥   ≥   ≥   Baustatik
+≥   ≥   ≥   ≥   Baustatik I
+≥   ≥   ≥   ≥   Baustatik1
+≥   ≥   ≥   ≥   Geo1
+≥   ≥   ≥   ≥   Grundbau
+≥   ≥   ≥   ≥   Grundbau - WS2011-12 - 4,0
+≥   ≥   ≥   ≥   Grundbau --
+≥   ≥   ≥   ≥   Grundbau a
+≥   ≥   ≥   ≥   Holzbau
+≥   ≥   ≥   ≥   Holzbau 1
+≥   ≥   ≥   ≥   Holzbau xx
+≥   ≥   ≥   ≥   Holzbau_I
+≥   ≥   ≥   ≥   MB1
+≥   ≥   ≥   ≥   Star·enbau
+≥   ≥   ≥   ≥   strassenbau
+≥   ≥   ≥   ≥   Strassenbau--
+≥   ≥   ≥   ≥   Stra·enbau
+≥   ≥   ≥   ≥   Stra·enbau 1
+≥   ≥   ≥   ≥   Stra·enbau_Pohlmann
+≥   ≥   ≥   4.Semester
+≥   ≥   ≥   ≥   Baubetrieb I
+≥   ≥   ≥   ≥   Baustatik I
+≥   ≥   ≥   ≥   Geotechnik
+≥   ≥   ≥   ≥   geotechnik1
+≥   ≥   ≥   ≥   Holzbau
+≥   ≥   ≥   ≥   Massivbau I
+≥   ≥   ≥   ≥   Massivbau_I
+≥   ≥   ≥   ≥   Stahlbau1
+≥   ≥   ≥   5.Semester
+≥   ≥   ≥   ≥   Englisch
+≥   ≥   ≥   6.Semester
+≥   ≥   ≥   ≥   massivbau III
+≥   ≥   ≥   ≥   Massivbau3
+≥   ≥   ≥   7.Semster
+≥   ≥   ≥   Baubetrieb 2
+≥   ≥   ≥   Bauko1
+≥   ≥   ≥   BauKo2
+≥   ≥   ≥   Baukonstruktion_II
+≥   ≥   ≥   Baumanagement
+≥   ≥   ≥   Bauphysik
+≥   ≥   ≥   Baustatik 1
+≥   ≥   ≥   Baustatik-I_Fehlau_SS2012
+≥   ≥   ≥   Baustoffe
+≥   ≥   ≥   Baustoffe1
+≥   ≥   ≥   Baustoffe2
+≥   ≥   ≥   Baustoffe_II
+≥   ≥   ≥   Darst. Geometrie
+≥   ≥   ≥   EDVIII
+≥   ≥   ≥   Einfuehrung_Ausgleichungsrechnung
+≥   ≥   ≥   Geografie I
+≥   ≥   ≥   Geotechnik 1
+≥   ≥   ≥   geotechnik 1  4.Sem
+≥   ≥   ≥   Geotechnik-I_Lutz_SS2012
+≥   ≥   ≥   Hydraulik
+≥   ≥   ≥   katrthographie
+≥   ≥   ≥   Klausur Bauko 2 2. sem
+≥   ≥   ≥   klausur hydraulik 2, sem
+≥   ≥   ≥   Klausur Mathe 2. sem
+≥   ≥   ≥   Klausur TM2 2. sem
+≥   ≥   ≥   Klausuren - Kartographie
+≥   ≥   ≥   Klausuren 19.10.2012
+≥   ≥   ≥   Mathe1
+≥   ≥   ≥   rîmische
+≥   ≥   ≥   Seitengestaltung
+≥   ≥   ≥   stahlbau
+≥   ≥   ≥   Stahlbau-I_Wei·_SS2012
+≥   ≥   ≥   T.M. 2
+≥   ≥   ≥   topo
+≥   ≥   ≥   UMWELT-ING
+≥   ≥   ≥   ≥   Alex
+≥   ≥   ≥   Verkehrswesen
+≥   ≥   ≥   ≥   Verkehrswesen
+≥   ≥   ≥   Verlagskarto
+≥   ≥   ≥   VKIII_Praxis
+≥   ≥   ≥   VKIII_Theorie
+≥   ≥   ≥   VWP
+≥   ≥   ≥   ≥   Icke
+≥   ≥   ≥   ≥   Odin
+≥   ≥   ≥   wasserwesen
+≥   ≥   ≥   Wasserwesen_Heimann
+≥   ≥   Bau Umwelt
+≥   ≥   Baubetrieb
+≥   ≥   Baubetrieb 2 ss13
+≥   ≥   Bauing
+≥   ≥   ≥   Baubetrieb
+≥   ≥   ≥   ≥   Baubetrieb 1
+≥   ≥   ≥   ≥   ≥   Baubetrieb 1 scans
+≥   ≥   ≥   ≥   ≥   ≥   Rechnung
+≥   ≥   ≥   ≥   ≥   ≥   Theorieteil
+≥   ≥   ≥   ≥   ≥   Baubetrieb I SS15
+≥   ≥   ≥   ≥   ≥   Baubetrieb1
+≥   ≥   ≥   ≥   Baubetrieb 2
+≥   ≥   ≥   Baukonstruktion
+≥   ≥   ≥   ≥   Baukonstruktion 1
+≥   ≥   ≥   ≥   ≥   Baukonstruktion 1 SS15 1PZR
+≥   ≥   ≥   ≥   ≥   Baukonstruktion 1 SS15 2PZR
+≥   ≥   ≥   ≥   Baukonstruktion 2
+≥   ≥   ≥   ≥       bauko 2
+≥   ≥   ≥   ≥       Bauko2
+≥   ≥   ≥   Bauphysik
+≥   ≥   ≥   Baustatik
+≥   ≥   ≥   ≥   baustatik
+≥   ≥   ≥   ≥   Baustatik 1
+≥   ≥   ≥   ≥   Baustatik 2
+≥   ≥   ≥   Baustoffe
+≥   ≥   ≥   Betontechnologie
+≥   ≥   ≥   Geotechnik
+≥   ≥   ≥   ≥   Geotechnik 1
+≥   ≥   ≥   ≥   ≥   GeotechnikI_SoSe_15
+≥   ≥   ≥   ≥   Geotechnik 1a
+≥   ≥   ≥   ≥   Geotechnik 2
+≥   ≥   ≥   ≥   Vertiefung
+≥   ≥   ≥   Grundbau
+≥   ≥   ≥   Holzbau
+≥   ≥   ≥   ≥   Holzbau 1
+≥   ≥   ≥   ≥       Holzbau 1 SS15 v1
+≥   ≥   ≥   Hydraulik
+≥   ≥   ≥   ≥   hydraulik
+≥   ≥   ≥   Klausuren INI-Raum
+≥   ≥   ≥   Massivbau
+≥   ≥   ≥   ≥   Massivbau 1
+≥   ≥   ≥   ≥   Massivbau 2
+≥   ≥   ≥   ≥   Massivbau 3
+≥   ≥   ≥   Mathe BauIng
+≥   ≥   ≥   ≥   Mathe
+≥   ≥   ≥   ≥   mathe 2
+≥   ≥   ≥   ≥   Mathe I
+≥   ≥   ≥   ≥   Mathematik - Roland Schmid 1.Semester
+≥   ≥   ≥   Siedlungswasserwirtschaft
+≥   ≥   ≥   Stahlbau
+≥   ≥   ≥   ≥   Stahlbau 1
+≥   ≥   ≥   ≥   Stahlbau 2
+≥   ≥   ≥   Stahlbau 1 HA Karla
+≥   ≥   ≥   Stahlbau 1 HA Silal
+≥   ≥   ≥   Strassenbautechnik
+≥   ≥   ≥   Technische Mechanik
+≥   ≥   ≥   ≥   TM1
+≥   ≥   ≥   ≥   TM2
+≥   ≥   ≥   ≥   tm2a
+≥   ≥   ≥   Verkehrswegeplanung
+≥   ≥   ≥   Verkehrswesen 30.06.2015
+≥   ≥   ≥   Vermessung
+≥   ≥   ≥   Wasserwesen
+≥   ≥   ≥       Wasserwesen Teil 1 Hydrologie 24.07.2015
+≥   ≥   ≥       Wasserwesen Teil 2 Scans
+≥   ≥   ≥       Wasserwesen Teil 2 Siedlungswasserwirtschaft 23.09.2015
+≥   ≥   Bauko 1
+≥   ≥   bauko 2
+≥   ≥   Bauko 2 WS 2015
+≥   ≥   Baustoffe 1 SS 2015
+≥   ≥   BHT
+≥   ≥   ≥   1.Semester
+≥   ≥   ≥   ≥   mathe1
+≥   ≥   ≥   4.Semester
+≥   ≥   ≥   ≥   Baubetrieb
+≥   ≥   ≥   5. Semester
+≥   ≥   ≥   6.Semester
+≥   ≥   ≥   ≥   Klausuren Strassenbautechnik
+≥   ≥   ≥   7.Semster
+≥   ≥   Daniel
+≥   ≥   holz
+≥   ≥   Kartographie
+≥   ≥   ≥   Darstellende Geometrie
+≥   ≥   ≥   EinfÅhrung in
+≥   ≥   ≥   Test EinfÅhrung in
+≥   ≥   ≥   Thematische Kartografie
+≥   ≥   ≥   Topographische Kartographie
+≥   ≥   Kimizikaya
+≥   ≥   Klausuren BAU Andrej
+≥   ≥   MA Spannbeton Klausuren
+≥   ≥   Mathe 2 WS 2015
+≥   ≥   Muhs
+≥   ≥   Neuer Ordner 12.07.16
+≥   ≥   ≥   Bauko 2
+≥   ≥   ≥   Baustoffe 1
+≥   ≥   ≥   Baustoffe Rangita Balasubramaniam
+≥   ≥   ≥   Baustoffe Seymanur Kavucuk
+≥   ≥   ≥   fachbereich
+≥   ≥   ≥   ≥   Neuer Ordner
+≥   ≥   ≥   Verkehrswesen
+≥   ≥   ≥   Verkehrswesen Okan Aktas
+≥   ≥   ≥   Verkehrswesen Seymanur Kavucuk
+≥   ≥   NezugÑnge Klausuren 17.06.16
+≥   ≥   ≥   klausuren kopie
+≥   ≥   Photo
+≥   ≥   strassenbau
+≥   ≥   Technische Mechanik 1 Fischer WS 1415
+≥   ≥   verkehrswegeplanung
+≥   ≥   Verkehrswesen FÅsser WS 1415
+≥   ≥   Vermessung
+≥   ≥   Vermessung Kîtter WS 1415
+≥   ≥   xNEUE KLAUSUREN WS2015-16
+≥   ≥       bauphysik
+≥   ≥       Bauplanungsrecht, SS15, 5.0
+≥   ≥       Baustoffe
+≥   ≥       Baustoffe 1
+≥   ≥       Baustoffe 2
+≥   ≥       Baustoffe I
+≥   ≥       Baustoffe1
+≥   ≥       baustoffe2
+≥   ≥       CAD
+≥   ≥       CAD - Stefan Holstein 1.Semester
+≥   ≥       grundbau
+≥   ≥       Grundbau ss 15
+≥   ≥       Hydraulik
+≥   ≥       KLAUSUREN SS 2015
+≥   ≥       ≥   Meine Altklausuren
+≥   ≥       Klausuren1
+≥   ≥       SS 2015
+≥   ≥       stahlbau
+≥   ≥       Stahlbau Scans
+≥   ≥       statik 1
+≥   ≥       stra·enbau
+≥   ≥       Stra·enbau SS15
+≥   ≥       Technische Mechanik II
+≥   ≥       TM 2
+≥   ≥       TM I
+≥   ≥       TM1
+≥   ≥       Verkehr
+≥   ≥       Verkehrswesen
+≥   ≥       Verkehrswesen - Klaus FÅsser 1.Semester
+≥   ≥       VWP
+≥   Bachelor
+≥   ≥   Bauingenieuwesen
+≥   ≥   ≥   B01_Studium_Generale_1
+≥   ≥   ≥   B02_Studium_Generale_2
+≥   ≥   ≥   B03_Baukonstruktion_1_und_CAD
+≥   ≥   ≥   ≥   B03.1_Baukonstruktion_1
+≥   ≥   ≥   ≥   ≥   Bauko
+≥   ≥   ≥   ≥   ≥       Baukonstruktion 1
+≥   ≥   ≥   ≥   ≥       ≥   Bauko 1
+≥   ≥   ≥   ≥   ≥       ≥   Baukonstruktion-Heider
+≥   ≥   ≥   ≥   ≥       ≥   Prof. Dr. G. Fischer
+≥   ≥   ≥   ≥   ≥       ≥   ≥   SS 03
+≥   ≥   ≥   ≥   ≥       ≥   ≥   SS 05
+≥   ≥   ≥   ≥   ≥       ≥   ≥   SS 06
+≥   ≥   ≥   ≥   ≥       ≥   ≥   SS 07
+≥   ≥   ≥   ≥   ≥       ≥   ≥   SS 08
+≥   ≥   ≥   ≥   ≥       ≥   ≥   WS 03-04
+≥   ≥   ≥   ≥   ≥       ≥   ≥   WS 05-06
+≥   ≥   ≥   ≥   ≥       ≥   ≥   WS 07-08
+≥   ≥   ≥   ≥   ≥       ≥   ≥   WS 08-09
+≥   ≥   ≥   ≥   ≥       ≥   ≥   WS 09-10
+≥   ≥   ≥   ≥   ≥       ≥   Prof. Dr. Heider
+≥   ≥   ≥   ≥   ≥       ≥       WS 09-10
+≥   ≥   ≥   ≥   ≥       Baukonstruktion 1 WS 2010_11
+≥   ≥   ≥   ≥   ≥       Klausur Baukonstruktion1
+≥   ≥   ≥   ≥   B03.2_CAD
+≥   ≥   ≥   ≥       Prof. Dr. Heider
+≥   ≥   ≥   ≥           SS 06
+≥   ≥   ≥   ≥           WS 07-08
+≥   ≥   ≥   ≥           ≥   Die 1te
+≥   ≥   ≥   ≥           ≥   Die 2te
+≥   ≥   ≥   ≥           WS 08-09
+≥   ≥   ≥   ≥           ≥   WS 08-09
+≥   ≥   ≥   ≥           WS 09-10
+≥   ≥   ≥   B04_Baustoffe_1
+≥   ≥   ≥   ≥   Baustoffe I Beck WS 10,11
+≥   ≥   ≥   ≥   Baustoffe1
+≥   ≥   ≥   ≥   ≥   Baustoffe
+≥   ≥   ≥   ≥   ≥   Baustoffe 1
+≥   ≥   ≥   ≥   ≥       Baustoffe 1
+≥   ≥   ≥   ≥   ≥       Baustoffe 1 klausur
+≥   ≥   ≥   ≥   ≥       Herr Beck
+≥   ≥   ≥   ≥   ≥       ≥   SS 08
+≥   ≥   ≥   ≥   ≥       ≥   ≥   1. Klausur
+≥   ≥   ≥   ≥   ≥       ≥   ≥   Nachklausur
+≥   ≥   ≥   ≥   ≥       ≥   ≥       Klausur
+≥   ≥   ≥   ≥   ≥       ≥   ≥       Lîsung
+≥   ≥   ≥   ≥   ≥       ≥   WS 08-09
+≥   ≥   ≥   ≥   ≥       ≥   WS 09-10
+≥   ≥   ≥   ≥   ≥       Prof. Dr. Berger
+≥   ≥   ≥   ≥   ≥           Fragenkatalog
+≥   ≥   ≥   ≥   ≥           SS 07
+≥   ≥   ≥   ≥   ≥           SS 08
+≥   ≥   ≥   ≥   ≥           ≥   1.Klausur
+≥   ≥   ≥   ≥   ≥           ≥   Nachklausur
+≥   ≥   ≥   ≥   ≥           WS 06-07
+≥   ≥   ≥   ≥   ≥           WS 07-08
+≥   ≥   ≥   ≥   ≥           WS 08-09
+≥   ≥   ≥   ≥   ≥           WS 09-10
+≥   ≥   ≥   ≥   Baustoffe1_
+≥   ≥   ≥   ≥   Klausur Baustoffe1
+≥   ≥   ≥   B05_Mathematik
+≥   ≥   ≥   ≥   1.Fachsemster ,, Mathematik,,
+≥   ≥   ≥   ≥   Herr Dammer
+≥   ≥   ≥   ≥   ≥   SS 06
+≥   ≥   ≥   ≥   ≥   WS 05-06
+≥   ≥   ≥   ≥   ≥   ≥   27.01.2006
+≥   ≥   ≥   ≥   ≥   WS 06-07
+≥   ≥   ≥   ≥   ≥   WS 07-08
+≥   ≥   ≥   ≥   ≥   WS 08-09
+≥   ≥   ≥   ≥   Mathe
+≥   ≥   ≥   ≥   Mathe 1
+≥   ≥   ≥   ≥   Mathe1
+≥   ≥   ≥   ≥   Mathematik I
+≥   ≥   ≥   B06_TechnischeMechanik_und_Tragwerkslehre
+≥   ≥   ≥   ≥   Technische Mechanik -Tragwerkslehre
+≥   ≥   ≥   ≥   ≥   Mechanik
+≥   ≥   ≥   ≥   ≥   Prof. Dr. A. Fischer
+≥   ≥   ≥   ≥   ≥   ≥   SS 07
+≥   ≥   ≥   ≥   ≥   ≥   ≥   1. Klausurtermin
+≥   ≥   ≥   ≥   ≥   ≥   ≥   2. Klausurtermin
+≥   ≥   ≥   ≥   ≥   ≥   SS 08
+≥   ≥   ≥   ≥   ≥   ≥   ≥   1. Klausur
+≥   ≥   ≥   ≥   ≥   ≥   ≥   Nachklausur
+≥   ≥   ≥   ≥   ≥   ≥   WS 07-08
+≥   ≥   ≥   ≥   ≥   ≥   ≥   1.Klausur
+≥   ≥   ≥   ≥   ≥   ≥   WS 08-09
+≥   ≥   ≥   ≥   ≥   ≥   WS 09-10
+≥   ≥   ≥   ≥   ≥   Technische Mechanik  1 WS 2010_11 (2)
+≥   ≥   ≥   ≥   ≥   ≥   Klausur Technische Mechanik1.Tragwerkslehre
+≥   ≥   ≥   ≥   ≥   TM1
+≥   ≥   ≥   ≥   ≥   TM1 SCAN
+≥   ≥   ≥   ≥   ≥   TM1-Fehlau
+≥   ≥   ≥   ≥   ≥   TMI
+≥   ≥   ≥   ≥   TM I Fehlau       WS 10,11
+≥   ≥   ≥   ≥   TM1 WS2011 1
+≥   ≥   ≥   ≥   TM1 WS2011 2
+≥   ≥   ≥   B07_Verkehrswesen_und_Vermessung
+≥   ≥   ≥   ≥   B07.1_Vermessung
+≥   ≥   ≥   ≥   ≥   Prof. Dr. Brehm
+≥   ≥   ≥   ≥   ≥   ≥   SS 08
+≥   ≥   ≥   ≥   ≥   ≥   ≥   1. Klausur
+≥   ≥   ≥   ≥   ≥   ≥   ≥   2. Klausur
+≥   ≥   ≥   ≥   ≥   ≥   Vermessungsfragen+Antworten
+≥   ≥   ≥   ≥   ≥   ≥   WS 06
+≥   ≥   ≥   ≥   ≥   ≥   WS 08-09
+≥   ≥   ≥   ≥   ≥   Prof. Dr. Kîtter
+≥   ≥   ≥   ≥   ≥   ≥   WS 09-10
+≥   ≥   ≥   ≥   ≥   Vermessung
+≥   ≥   ≥   ≥   ≥   Vermessung 1 WS 2010_11 (4)
+≥   ≥   ≥   ≥   ≥   Vermessung KLausur SCan
+≥   ≥   ≥   ≥   ≥   Vermessung-Koetter
+≥   ≥   ≥   ≥   ≥   Vermessung1
+≥   ≥   ≥   ≥   ≥   Vermessungskunde  Kîtter 10,11
+≥   ≥   ≥   ≥   B07.2_Verkehrswesen
+≥   ≥   ≥   ≥       Klausur Verkehrswesen1
+≥   ≥   ≥   ≥       ≥   Verkehrswesen1
+≥   ≥   ≥   ≥       ≥   ≥   Verkehrswesen
+≥   ≥   ≥   ≥       ≥   ≥       Klausur Verkehrswesen
+≥   ≥   ≥   ≥       ≥   ≥       Prof. Dr. Taubmann
+≥   ≥   ≥   ≥       ≥   ≥       ≥   Fragen 2002-2004
+≥   ≥   ≥   ≥       ≥   ≥       ≥   SS 06
+≥   ≥   ≥   ≥       ≥   ≥       ≥   SS 07
+≥   ≥   ≥   ≥       ≥   ≥       ≥   SS 08
+≥   ≥   ≥   ≥       ≥   ≥       ≥   Verkehrswesen Fragen
+≥   ≥   ≥   ≥       ≥   ≥       ≥   WS 03-04
+≥   ≥   ≥   ≥       ≥   ≥       ≥   WS 05-06
+≥   ≥   ≥   ≥       ≥   ≥       ≥   WS 06-07
+≥   ≥   ≥   ≥       ≥   ≥       ≥   WS 07-08
+≥   ≥   ≥   ≥       ≥   ≥       ≥   WS 08-09
+≥   ≥   ≥   ≥       ≥   ≥       ≥   WS 09-10
+≥   ≥   ≥   ≥       ≥   ≥       Verkehrswesen
+≥   ≥   ≥   ≥       ≥   ≥       Verkehrswesen 1 WS 2010_11 (3)
+≥   ≥   ≥   ≥       ≥   ≥       Verkehrswesen Klausur Scan
+≥   ≥   ≥   ≥       ≥   ≥       Verkehrswesen_Taubmann
+≥   ≥   ≥   ≥       ≥   Verkehrswesen1Klausur
+≥   ≥   ≥   ≥       Verkehrswesen
+≥   ≥   ≥   ≥       Verkehrswesen Taubmann 10,11
+≥   ≥   ≥   ≥       verkehrswesen WS2010 2
+≥   ≥   ≥   B08_Baukonstruktion_2
+≥   ≥   ≥   ≥   Baukonstruktion 2
+≥   ≥   ≥   ≥   ≥   Bauko 2
+≥   ≥   ≥   ≥   ≥   bauko 2 - Himburg 23.03.2011
+≥   ≥   ≥   ≥   ≥   Bauko2 Klausur
+≥   ≥   ≥   ≥   ≥   Klausur Baukonstruktion II
+≥   ≥   ≥   ≥   baukonstruktion2 WS 2011 1
+≥   ≥   ≥   B09_Baustoffe_2
+≥   ≥   ≥   ≥   baustoffe II
+≥   ≥   ≥   ≥   Baustoffe2 Klausur
+≥   ≥   ≥   B10_Verkehrswegeplanung
+≥   ≥   ≥   ≥   GÅnther
+≥   ≥   ≥   ≥   ≥   SS 2010
+≥   ≥   ≥   ≥   Prof. Dr. GÅnther
+≥   ≥   ≥   ≥   ≥   SS 07
+≥   ≥   ≥   ≥   ≥   SS 08
+≥   ≥   ≥   ≥   ≥   SS 10
+≥   ≥   ≥   ≥   ≥   WS 06-07
+≥   ≥   ≥   ≥   ≥   WS 07-08
+≥   ≥   ≥   ≥   ≥   WS 08-09
+≥   ≥   ≥   ≥   ≥   ≥   1. PrÅfungstermin
+≥   ≥   ≥   ≥   ≥   ≥   2. PrÅfungstermin
+≥   ≥   ≥   ≥   ≥   WS 09-10
+≥   ≥   ≥   ≥   VWP klausur
+≥   ≥   ≥   B11_Mathematik_und_Numerik
+≥   ≥   ≥   ≥   Mathe 2-Numerik
+≥   ≥   ≥   ≥   ≥   Klausur Numerik
+≥   ≥   ≥   ≥   ≥   Mathe 2
+≥   ≥   ≥   ≥   ≥   Mathe 2 Klausur
+≥   ≥   ≥   ≥   ≥   Mathematik Numerik
+≥   ≥   ≥   ≥   ≥   numerik
+≥   ≥   ≥   ≥   ≥   Prof. Dr. Uwe Stephan
+≥   ≥   ≥   ≥   ≥       WS 08-09
+≥   ≥   ≥   ≥   ≥       öbungsklausur 1
+≥   ≥   ≥   ≥   ≥       öbungsklausur 2
+≥   ≥   ≥   ≥   mathe Nummerik
+≥   ≥   ≥   ≥   Uwe Stephan
+≥   ≥   ≥   B12_Technische_Mechanik
+≥   ≥   ≥   ≥   Prof. Dr. A. Fischer
+≥   ≥   ≥   ≥   ≥   SS08
+≥   ≥   ≥   ≥   Stîwhaas
+≥   ≥   ≥   ≥   TM 2_Kramp WS_10.02.1010
+≥   ≥   ≥   ≥   tm2
+≥   ≥   ≥   B13_Hydraulik
+≥   ≥   ≥   ≥   Hydraulik
+≥   ≥   ≥   ≥   Hydraulik Klausur
+≥   ≥   ≥   ≥   hydraulik WS 2011 1
+≥   ≥   ≥   ≥   HYDRAULIK WS 2011 2
+≥   ≥   ≥   ≥   Hydraulik_
+≥   ≥   ≥   ≥   Hydraulik_Heimann WS_22.01.2010
+≥   ≥   ≥   ≥   Prof. Dr. Heimann
+≥   ≥   ≥   ≥       SS 06
+≥   ≥   ≥   ≥       SS 07
+≥   ≥   ≥   ≥       SS 08
+≥   ≥   ≥   ≥       ≥   1. Klausur
+≥   ≥   ≥   ≥       ≥   2. Klausur
+≥   ≥   ≥   ≥       SS 10
+≥   ≥   ≥   ≥       WS 03-04
+≥   ≥   ≥   ≥       WS 06-07
+≥   ≥   ≥   B14_Bauphysik
+≥   ≥   ≥   ≥   Bauphysik
+≥   ≥   ≥   ≥       Prof. Dr. G. Fischer
+≥   ≥   ≥   ≥       ≥   Teil 1
+≥   ≥   ≥   ≥       ≥   ≥   SS 07
+≥   ≥   ≥   ≥       ≥   ≥   SS 99
+≥   ≥   ≥   ≥       ≥   ≥   WS 05-06
+≥   ≥   ≥   ≥       ≥   ≥   ≥   1. Klausur
+≥   ≥   ≥   ≥       ≥   ≥   ≥   2. Klausur
+≥   ≥   ≥   ≥       ≥   ≥   WS 07-08
+≥   ≥   ≥   ≥       ≥   Teil 2
+≥   ≥   ≥   ≥       ≥       WS 05-06
+≥   ≥   ≥   ≥       ≥       WS 06-07
+≥   ≥   ≥   ≥       ≥       WS 07-08
+≥   ≥   ≥   ≥       ≥       WS 09-10
+≥   ≥   ≥   ≥       Prof. Dr.-Ing. S. Himburg
+≥   ≥   ≥   B15_Baubetrieb_1
+≥   ≥   ≥   ≥   SS 2010
+≥   ≥   ≥   ≥   ≥   Teil I
+≥   ≥   ≥   ≥   ≥   Teil II
+≥   ≥   ≥   ≥   WS 09-10
+≥   ≥   ≥   ≥       Teil1
+≥   ≥   ≥   ≥       Teil2
+≥   ≥   ≥   B16_Massivbau_1
+≥   ≥   ≥   ≥   Prof. Dr. Rîsler
+≥   ≥   ≥   ≥       SS 03
+≥   ≥   ≥   ≥       ≥   2. Klausur
+≥   ≥   ≥   ≥       SS 08
+≥   ≥   ≥   ≥       SS 10
+≥   ≥   ≥   ≥       WS 00-01
+≥   ≥   ≥   ≥       WS 05-06
+≥   ≥   ≥   ≥       WS 06-07
+≥   ≥   ≥   ≥       WS 07-08
+≥   ≥   ≥   B17_Holzbau
+≥   ≥   ≥   ≥   Herr Rambow
+≥   ≥   ≥   ≥   ≥   WS 08-09
+≥   ≥   ≥   ≥   ≥   WS 09-10
+≥   ≥   ≥   ≥   holzbau kickler
+≥   ≥   ≥   ≥   Prof. Dr. Himburg
+≥   ≥   ≥   ≥   ≥   SS 08
+≥   ≥   ≥   ≥   ≥   ≥   1. PrÅfungstermin
+≥   ≥   ≥   ≥   ≥   ≥   2. PrÅfungstermin
+≥   ≥   ≥   ≥   ≥   WS 08-09
+≥   ≥   ≥   ≥   ≥       1. PrÅfungstermin
+≥   ≥   ≥   ≥   ≥       2. PrÅfungstermin
+≥   ≥   ≥   ≥   Prof. Dr. Kickler
+≥   ≥   ≥   ≥       SS 2010
+≥   ≥   ≥   B18_Baustatik1
+≥   ≥   ≥   ≥   Meyn
+≥   ≥   ≥   ≥   Prof. Dr. Meyn
+≥   ≥   ≥   ≥   ≥   SS 2010
+≥   ≥   ≥   ≥   Prof. Dr. Prietz
+≥   ≥   ≥   ≥   ≥   SS 08
+≥   ≥   ≥   ≥   ≥   WS 05-06
+≥   ≥   ≥   ≥   ≥   WS 06-07
+≥   ≥   ≥   ≥   ≥   WS 07-08
+≥   ≥   ≥   ≥   ≥   WS 08-09
+≥   ≥   ≥   ≥   Prof. Fehlau
+≥   ≥   ≥   B19_Grundbau_und_Stra·enbau
+≥   ≥   ≥   ≥   B19.1_Grundbau
+≥   ≥   ≥   ≥   B19.2_Stra·enbau
+≥   ≥   ≥   B20_Geotechnik_1
+≥   ≥   ≥   ≥   Geotechnik Grundlagen
+≥   ≥   ≥   ≥   ≥   Geotechnik_Lutz WS_04.12.2009
+≥   ≥   ≥   ≥   ≥   Klausur Geotechnik
+≥   ≥   ≥   ≥   geotechnik_
+≥   ≥   ≥   ≥   Prof. Dr. Keck
+≥   ≥   ≥   ≥   ≥   SS_ 09
+≥   ≥   ≥   ≥   ≥   ≥   1. PrÅfungstermin
+≥   ≥   ≥   ≥   ≥   ≥   2. PrÅfungstermin
+≥   ≥   ≥   ≥   ≥   WS 08-09
+≥   ≥   ≥   ≥   ≥   WS 09-10
+≥   ≥   ≥   ≥   Prof. Dr. Lutz
+≥   ≥   ≥   B21_Baubetrieb_2
+≥   ≥   ≥   ≥   Baubetrieb II
+≥   ≥   ≥   ≥       Prof. Dr. Axmann
+≥   ≥   ≥   ≥           Teil 1
+≥   ≥   ≥   ≥           ≥   SS 06
+≥   ≥   ≥   ≥           ≥   SS 09
+≥   ≥   ≥   ≥           ≥   WS 06-07
+≥   ≥   ≥   ≥           ≥   WS 07-08
+≥   ≥   ≥   ≥           ≥   WS 09-10
+≥   ≥   ≥   ≥           Teil 2
+≥   ≥   ≥   ≥               SS 08
+≥   ≥   ≥   ≥               SS 09
+≥   ≥   ≥   ≥               WS 06-07
+≥   ≥   ≥   ≥               WS 08-09
+≥   ≥   ≥   ≥               WS 09-10
+≥   ≥   ≥   B22_Massivbau_2
+≥   ≥   ≥   ≥   Prof. Dr. Kramp
+≥   ≥   ≥   ≥   ≥   WS 09-10
+≥   ≥   ≥   ≥   Prof. Dr. Rîsler
+≥   ≥   ≥   ≥       Massivbau 2 WS 09_10
+≥   ≥   ≥   ≥       SS 04
+≥   ≥   ≥   ≥       SS 06
+≥   ≥   ≥   ≥       SS 07
+≥   ≥   ≥   ≥       SS 08
+≥   ≥   ≥   ≥       WS 06-07
+≥   ≥   ≥   ≥       WS 08-09
+≥   ≥   ≥   B23_Stahlbau_1
+≥   ≥   ≥   ≥   Prof. Dr. Wei·
+≥   ≥   ≥   ≥   ≥   SS 07
+≥   ≥   ≥   ≥   ≥   SS 09
+≥   ≥   ≥   ≥   ≥   Stahlbau 1 WS 09_10
+≥   ≥   ≥   ≥   ≥   WS 05-06
+≥   ≥   ≥   ≥   Prof. Fehlau
+≥   ≥   ≥   ≥   Stahlbau1 klausur
+≥   ≥   ≥   B24_Baustatik_2
+≥   ≥   ≥   ≥   Baustatik II
+≥   ≥   ≥   ≥       Prof. Dr. Prietz
+≥   ≥   ≥   ≥           SS 08
+≥   ≥   ≥   ≥           SS 09
+≥   ≥   ≥   ≥           WS 08-09
+≥   ≥   ≥   B25_Wasserwesen
+≥   ≥   ≥   ≥   Prof. Dr. Heimann
+≥   ≥   ≥   ≥   ≥   Teil 1
+≥   ≥   ≥   ≥   ≥   ≥   SS 05
+≥   ≥   ≥   ≥   ≥   ≥   ≥   1.Klausur
+≥   ≥   ≥   ≥   ≥   ≥   ≥   2.Klausur
+≥   ≥   ≥   ≥   ≥   ≥   SS 06
+≥   ≥   ≥   ≥   ≥   ≥   SS 07
+≥   ≥   ≥   ≥   ≥   ≥   ≥   1.Klausur
+≥   ≥   ≥   ≥   ≥   ≥   ≥   2.Klausur
+≥   ≥   ≥   ≥   ≥   ≥   SS 08
+≥   ≥   ≥   ≥   ≥   ≥   WS 04-05
+≥   ≥   ≥   ≥   ≥   ≥   ≥   1.Klausur
+≥   ≥   ≥   ≥   ≥   ≥   ≥   2.Klausur
+≥   ≥   ≥   ≥   ≥   ≥   WS 05-06
+≥   ≥   ≥   ≥   ≥   ≥   WS 07-08
+≥   ≥   ≥   ≥   ≥   ≥   ≥   1. PrÅfungstermin
+≥   ≥   ≥   ≥   ≥   ≥   ≥   2. PrÅfungstermin
+≥   ≥   ≥   ≥   ≥   ≥   WS 08-09
+≥   ≥   ≥   ≥   ≥   ≥   WS 09-10
+≥   ≥   ≥   ≥   ≥   ≥       WW Teil 1 WS 10.12.09
+≥   ≥   ≥   ≥   ≥   Teil 2
+≥   ≥   ≥   ≥   ≥       WS 08-09
+≥   ≥   ≥   ≥   ≥       ≥   1. PrÅfungstermin
+≥   ≥   ≥   ≥   ≥       ≥   2. PrÅfungstermin
+≥   ≥   ≥   ≥   ≥       WS 09-10
+≥   ≥   ≥   ≥   ≥           WS 09-10
+≥   ≥   ≥   ≥   Wasserwesen
+≥   ≥   ≥   B26_Baubetrieb_3_und_Sicherheit_am_Bau
+≥   ≥   ≥   ≥   B26.1_Baubetrieb_3
+≥   ≥   ≥   ≥   B26.2_Sicherheit_am_Bau
+≥   ≥   ≥   B27_InterdisziplinÑre_Kompetenzen
+≥   ≥   ≥   ≥   B27.1_Vetragsrecht_fÅr_Planer_und_Baubetriebe
+≥   ≥   ≥   ≥   ≥   Bau und Vertragsrecht SS 10
+≥   ≥   ≥   ≥   B27.2_Englisch_im_Bauwesen
+≥   ≥   ≥   ≥       Englisch SS 10
+≥   ≥   ≥   B28_Praxisphase
+≥   ≥   ≥   B29_Auswertung_und_Erfahrungen_am_Arbeitsplatz
+≥   ≥   ≥   B40_AbschlussprÅfung
+≥   ≥   ≥   ≥   B40.1_Bachelor-Arbeit
+≥   ≥   ≥   ≥   B40.2_MÅndliche AbschlussprÅfung
+≥   ≥   ≥   Grundbau
+≥   ≥   ≥   SP1_Konstruktiver_Ingenieurbau
+≥   ≥   ≥   ≥   SP1.01_Geotechnik_2
+≥   ≥   ≥   ≥   ≥   Prof. Dr. Keck
+≥   ≥   ≥   ≥   ≥       WS 09-10
+≥   ≥   ≥   ≥   SP1.02_Massivbau_3
+≥   ≥   ≥   ≥   SP1.03_Stahlbau_2
+≥   ≥   ≥   ≥   SP1.04_Hochbaukonstruktion
+≥   ≥   ≥   ≥   ≥   Hohbaukonstruktion Klausur
+≥   ≥   ≥   ≥   SP1.05_Wahlpflichtmodul_1
+≥   ≥   ≥   ≥   ≥   WP.SP1.01_Hochbaukonstruktion_vertieft
+≥   ≥   ≥   ≥   ≥   WP.SP1.02_Holzbau_vertieft
+≥   ≥   ≥   ≥   ≥   WP.SP1.03_Ingenieurbau
+≥   ≥   ≥   ≥   ≥   WP.SP1.04_Stahlbau_vertieft
+≥   ≥   ≥   ≥   ≥   WP.SP1.05_AusgewÑhlte_Kapitel_Konstruktionsbau
+≥   ≥   ≥   ≥   ≥   WP.SP1.06_Grundlagen_des_Brandschutzes
+≥   ≥   ≥   ≥   ≥   WP01_Betontechnologie
+≥   ≥   ≥   ≥   ≥   WP02_CAD_Anwendung
+≥   ≥   ≥   ≥   ≥   WP03_Geotechnik_vertieft
+≥   ≥   ≥   ≥   SP1.06_Wahlpflichtmodul_2
+≥   ≥   ≥   ≥   SP1.07_Projekt_mit_EDV-Anwendung
+≥   ≥   ≥   ≥   SP1.08_Baubetrieb_4_Planungs-_und_Bauordnungsrecht
+≥   ≥   ≥   ≥   ≥   SP1-08.1_Baubetrieb_4-Baumanagement
+≥   ≥   ≥   ≥   ≥   SP1-08.2_Planungs-_und_Bauordnungsrecht
+≥   ≥   ≥   ≥   SP1.09_Massivbau_4
+≥   ≥   ≥   ≥   SP1.10_Wahlpflichtmodul_3
+≥   ≥   ≥   SP2_Verkehrs-_und_Wasserwesen
+≥   ≥   ≥       SP2.01_Geotechnik_2
+≥   ≥   ≥       SP2.02_Stra·enbautechnik
+≥   ≥   ≥       ≥   Stra·enbau_Pohlmann WS_30.11.2009
+≥   ≥   ≥       ≥       SS 07
+≥   ≥   ≥       ≥       SS 08
+≥   ≥   ≥       ≥       WS 07-08
+≥   ≥   ≥       ≥       WS 08-09
+≥   ≥   ≥       SP2.03_Siedlungswasserwirtschaft
+≥   ≥   ≥       SP2.04_Verkehrstechnik
+≥   ≥   ≥       SP2.05_Wasserbau
+≥   ≥   ≥       SP2.06_Wahlpflichtmodul_1
+≥   ≥   ≥       ≥   WP.SP2.01_Stra·enbautechnik_vertieft
+≥   ≥   ≥       ≥   WP.SP2.02_Verkehrsplanung
+≥   ≥   ≥       ≥   WP.SP2.03_Siedlungswasserwirtschaft_vertieft
+≥   ≥   ≥       ≥   WP.SP2.04_Wasserbau_vertieft
+≥   ≥   ≥       ≥   WP.SP2.05_AusgewÑhlte_Kapitel_Verkehr_und_Wasser
+≥   ≥   ≥       ≥   WP.SP2.06_Projekt_Geotechnik
+≥   ≥   ≥       ≥   WP.SP2.07_Agrar_und_Kulturbau
+≥   ≥   ≥       SP2.07_Projekt_mit_EDV-Anwendung
+≥   ≥   ≥       SP2.08_Baubetrieb_4_und_Planungs-_und_Bauordnungsrecht
+≥   ≥   ≥       ≥   SP1-08.1_Baubetrieb_4-Baumanagement
+≥   ≥   ≥       ≥   SP1-08.2_Planungs-_und_Bauordnungsrecht
+≥   ≥   ≥       SP2.09_Wahlpflichtmodul_2
+≥   ≥   ≥       SP2.10_Wahlpflichtmodul_3
+≥   ≥   Geoinformation
+≥   ≥   ≥   B01_Grundlagen_wissenschaftlicher_projektbezogener_Arbeit
+≥   ≥   ≥   B02_Englisch_fÅr_Geoinformationswesen
+≥   ≥   ≥   B03_Mathematik
+≥   ≥   ≥   B04_Grundlagen_Geoinformationssysteme
+≥   ≥   ≥   B05_Grundlagen_der_Kartographie
+≥   ≥   ≥   B06_Grundlagen_der_Vermessungskunde
+≥   ≥   ≥   B07_Informatik
+≥   ≥   ≥   B08_Grundlagen_der_Fernerkundung_und_Photogrammetrie
+≥   ≥   ≥   B09_Statistik_und_Messunsicherheit
+≥   ≥   ≥   B10_Wahlpflichtmodul_A1_oder_A2
+≥   ≥   ≥   ≥   B10.A1_Visualisierung_von_Geodaten_(CAD)
+≥   ≥   ≥   ≥   B10.A2_Visualisierung_von_Geodaten_(DTM)
+≥   ≥   ≥   B11_Geoinformatik
+≥   ≥   ≥   B12_Fernerkundung
+≥   ≥   ≥   B13_Wahlpflichtmodul_B1_oder_B2
+≥   ≥   ≥   ≥   B13.B1_GeodÑtische_Auswertemethoden
+≥   ≥   ≥   ≥   B13.B2_Kartennetze_und_Transformationen
+≥   ≥   ≥   B14_Wahlpflichtmodul_C1_oder_C2
+≥   ≥   ≥   ≥   B14.C1_Physische_Geographie
+≥   ≥   ≥   ≥   B14.C2_Liegenschaftskataster_und_-recht
+≥   ≥   ≥   B15_Wahlpflichtmodul_D1_oder_D2
+≥   ≥   ≥   ≥   B15.D1_Humangeographie
+≥   ≥   ≥   ≥   B15.D2_Planungswesen
+≥   ≥   ≥   ≥       B15.D2a_Planung,_Boden-_und_Bauordnung
+≥   ≥   ≥   ≥       B15.D2b_LÑndliche_Neuordnung
+≥   ≥   ≥   B16_Praxisphase
+≥   ≥   ≥   B17_Wahlpflichtmodul_E1_oder_E2
+≥   ≥   ≥   ≥   B17.E1_Navigation
+≥   ≥   ≥   ≥   B17.E2_Bauwesen
+≥   ≥   ≥   B18_Wahlpflichtmodul_l
+≥   ≥   ≥   ≥   WP01_Geoinformation_und_RPAS
+≥   ≥   ≥   ≥   WP02_Virtuelle_3D-Stadtmodelle
+≥   ≥   ≥   ≥   WP03_Digitale_Bildverarbeitung_in_Fernerkundung_und_Photogrammetrie
+≥   ≥   ≥   ≥   WP04_GIS_im_Wasserbau
+≥   ≥   ≥   ≥   WP05_GIS_in_der_Praxis
+≥   ≥   ≥   ≥   WP06_Thematische_Kartographie
+≥   ≥   ≥   ≥   WP07_EinfÅhrung_statistische_Software
+≥   ≥   ≥   ≥   WP08_Anwendungsentwicklung_mit_Python
+≥   ≥   ≥   ≥   WP09_Webserver_und_GDI_(Geodateninfrastrukturen)
+≥   ≥   ≥   ≥   WP10_Kartographische_Infografiken
+≥   ≥   ≥   ≥   WP11_Satellitenbildkarten
+≥   ≥   ≥   ≥   WP12_Umweltinformation
+≥   ≥   ≥   ≥   WP13_Photogrammetrie_I
+≥   ≥   ≥   ≥   WP14_Photogrammetrie_II
+≥   ≥   ≥   ≥   WP15_HauptvermessungsÅbung
+≥   ≥   ≥   ≥   WP16_Bauabrechnung
+≥   ≥   ≥   ≥   WP17_BauwerksÅberwachung_und_Beweissicherung
+≥   ≥   ≥   ≥   WP18_GeodÑtische_Methoden_zur_ObjektÅberwachung_und_-steuerung
+≥   ≥   ≥   ≥   WP19_Laserscanning
+≥   ≥   ≥   ≥   WP20_Liegenschaftsvermessung
+≥   ≥   ≥   ≥   WP21_Ortsbestimmung_und_Navigation
+≥   ≥   ≥   ≥   WP22_Programmierung_von_Geo-Anwendungen_mit_Java
+≥   ≥   ≥   ≥   WP23_Vertiefung Photogrammetrie und Fernerkundung
+≥   ≥   ≥   ≥   WP24_Werteermittlung
+≥   ≥   ≥   ≥   WP25_Geo_Exkursion
+≥   ≥   ≥   ≥   WP26_Betriebswirtschaftslehre
+≥   ≥   ≥   B19_Wahlpflichtmodul_ll
+≥   ≥   ≥   B20_Studium_Generale
+≥   ≥   ≥   B21_Wahlpflichtmodul_F1_oder_F2
+≥   ≥   ≥   ≥   B21.F1_Mobile_Geoanwendung
+≥   ≥   ≥   ≥   B21.F2_Verkehrswegebau
+≥   ≥   ≥   B22_AbschlussprÅfung
+≥   ≥   ≥   ≥   B22.1_Bachelorarbeit
+≥   ≥   ≥   ≥   B22.2_MÅndliche_AbschlussprÅfung
+≥   ≥   ≥   SP1_Angewandte_Geoinformatik
+≥   ≥   ≥   ≥   SP1.01_Modelle_der_Geographie_und_Umweltwissenschaften
+≥   ≥   ≥   ≥   SP1.02_GIS_GelÑndepraktikum
+≥   ≥   ≥   ≥   SP1.03_RÑumliche_Datenmodellierung_mit_GIS
+≥   ≥   ≥   ≥   SP1.04_Geodatenbanken
+≥   ≥   ≥   ≥   SP1.05_RÑumliche_Datenanalyse_mit_GIS
+≥   ≥   ≥   ≥   SP1.06_Geodatenmodelle
+≥   ≥   ≥   ≥   SP1.07_Multivariate_Geodatenanalyse
+≥   ≥   ≥   ≥   SP1.08_3D_Geodaten
+≥   ≥   ≥   ≥   SP1.09_Geodatendienste
+≥   ≥   ≥   ≥   SP1.10_Geo_IT_Projekte
+≥   ≥   ≥   SP2_GeodÑsie
+≥   ≥   ≥   ≥   SP2.01_Instrumentenkunde_Sensorik
+≥   ≥   ≥   ≥   SP2.02_GeodÑtische_Rechenverfahren
+≥   ≥   ≥   ≥   SP2.03_Vermessungskunde_I_(Bezugssysteme)
+≥   ≥   ≥   ≥   SP2.04_Mathematische_Methoden_der_GeodÑsie
+≥   ≥   ≥   ≥   SP2.05_Vermessungskunde_II
+≥   ≥   ≥   ≥   SP2.06_Photogrammetrie_I
+≥   ≥   ≥   ≥   SP2.07_Ingenieurvermessung
+≥   ≥   ≥   ≥   SP2.08_Photogrammetrie_und_3D_Modellierung
+≥   ≥   ≥   ≥   SP2.09_Ausgleichungsrechnung
+≥   ≥   ≥   ≥   SP2.10_Geoinformationssysteme
+≥   ≥   ≥   SP3_Geomedien_und_Kartographie
+≥   ≥   ≥       SP3.01_GIS-Anwendungen
+≥   ≥   ≥       SP3.02_Grafik-Design
+≥   ≥   ≥       SP3.03_Thematische_Kartographie
+≥   ≥   ≥       SP3.04_Topographische_Kartographie
+≥   ≥   ≥       SP3.05_Kartographische_Printmedien
+≥   ≥   ≥       SP3.06_Web_Mapping_I
+≥   ≥   ≥       SP3.07_Web_Mapping_II
+≥   ≥   ≥       SP3.08_Geomedienprojekt
+≥   ≥   ≥       SP3.09_Kartendesign
+≥   ≥   ≥       SP3.10_AusgewÑhlte_Kapitel_der_Kartographie
+≥   ≥   Geoinformation_(auslaufend)
+≥   ≥   ≥   1. Sem
+≥   ≥   ≥   2. Sem
+≥   ≥   ≥   ≥   Englisch
+≥   ≥   ≥   ≥   Geographie
+≥   ≥   ≥   ≥   Informatik
+≥   ≥   ≥   ≥   Mathe
+≥   ≥   ≥   ≥   Visualisierung raumbezogener Daten
+≥   ≥   ≥   3. Sem
+≥   ≥   ≥   ≥   3.SemesterGeodatenbanken
+≥   ≥   ≥   ≥   ≥   Geodatenbanken Mitschriften
+≥   ≥   ≥   ≥   ≥   öbung
+≥   ≥   ≥   ≥   Geo II
+≥   ≥   ≥   ≥   ≥   pdf-Versionen-Pruefungsfragen
+≥   ≥   ≥   ≥   ≥   pdf-Versionen-Vorlesungen
+≥   ≥   ≥   ≥   Geodatenbanken
+≥   ≥   ≥   ≥   Photo
+≥   ≥   ≥   ≥   Wyss
+≥   ≥   ≥   4. Sem
+≥   ≥   ≥       Fernerkundung - Material Breuer
+≥   ≥   ≥       PhotoII
+≥   ≥   Kartographie und Geomedien_(auslaufend)
+≥   ≥   ≥   B01_Grundlagen_wissenschaftlicher_projektbezogener_Arbeit
+≥   ≥   ≥   B02_Grundlagen_der_Kartographie
+≥   ≥   ≥   B03_Mathematik
+≥   ≥   ≥   B04_Grafik-Design
+≥   ≥   ≥   B05_Desktop_Mapping
+≥   ≥   ≥   B06_Geographie_1
+≥   ≥   ≥   B07_Geographie_2
+≥   ≥   ≥   B08_Englisch_fÅr_Geoinformationswesen
+≥   ≥   ≥   B09_Darstellende_Geometrie
+≥   ≥   ≥   B10_EinfÅhrung_in_GIS
+≥   ≥   ≥   B11_Topographische_Kartographie
+≥   ≥   ≥   B12_Thematische_Kartographie
+≥   ≥   ≥   B13_Kartographische_Printmedien
+≥   ≥   ≥   B14_Kartographische_Datenverarbeitung
+≥   ≥   ≥   B15_Fernerkundung
+≥   ≥   ≥   B16_Statistik_in_der_Kartographie
+≥   ≥   ≥   B17_Studium Generale_1
+≥   ≥   ≥   B18_Studium Generale_2
+≥   ≥   ≥   B19_Kartennetzlehre
+≥   ≥   ≥   B20_ Praxisphase
+≥   ≥   ≥   ≥   B20.1_Praxisphase
+≥   ≥   ≥   ≥   B20.2_Auswertung_von_Erfahrungen_am_Arbeitsplatz
+≥   ≥   ≥   B21_Kartographische_Seitengestaltung
+≥   ≥   ≥   B22_Verlagskartographie
+≥   ≥   ≥   B23_Vermessungskunde
+≥   ≥   ≥   B24_GIS-Anwendungen
+≥   ≥   ≥   B25_Photogrammetrie
+≥   ≥   ≥   B26_BWL_und_Recht
+≥   ≥   ≥   ≥   B26.1_BWL
+≥   ≥   ≥   ≥   B26.2_Recht
+≥   ≥   ≥   B27_Internetkartographie
+≥   ≥   ≥   B28_Wahlpflichtmodul_1
+≥   ≥   ≥   ≥   WP01_EinfÅhrung_in_SVG
+≥   ≥   ≥   ≥   WP02_Satellitenbildkarten
+≥   ≥   ≥   ≥   WP03_Pressekartographie
+≥   ≥   ≥   ≥   WP04_Vertiefung_Fernerkundung
+≥   ≥   ≥   ≥   WP05_GIS_in_der_Praxis
+≥   ≥   ≥   ≥   WP06_Webserver
+≥   ≥   ≥   B29_GelÑndedarstellung
+≥   ≥   ≥   B30_Wahlpflichtmodul_2
+≥   ≥   ≥   B31_Multimediale_Kartographie
+≥   ≥   ≥   B32_AusgewÑhlte_Kapitel_der_Kartographie
+≥   ≥   ≥   B33_ AbschlussprÅfung
+≥   ≥   ≥       B33.1_Bachelor-Arbeit
+≥   ≥   ≥       B33.2_MÅndliche_AbschlussprÅfung
+≥   ≥   Umweltingenieurwesen_Bau
+≥   ≥   ≥   Allgemeineôkologie
+≥   ≥   ≥   Klausuren
+≥   ≥   ≥       Klausuren
+≥   ≥   Vermessungswesen_und_Geomatik_(auslaufend)
+≥   ≥   ≥   B01_Englisch_fÅr_Geoinformationswesen
+≥   ≥   ≥   B02_Mathematische_und_physiaklische_Grundlagen
+≥   ≥   ≥   ≥   B02.1_Mathematik_1
+≥   ≥   ≥   ≥   B02.2_Physik
+≥   ≥   ≥   B03_Vermessungstechnische_DV_und_CAD_1
+≥   ≥   ≥   B04_GeodÑtische_Rechenverfahren_1
+≥   ≥   ≥   B05_Grundlagen_der_Instrumentenkunde
+≥   ≥   ≥   ≥   B05.1_Physikalische_Grundlagen_der_Instrumentenkunde
+≥   ≥   ≥   ≥   B05.2_Instrumentenkunde_1
+≥   ≥   ≥   B06_Vermessungskunde_1
+≥   ≥   ≥   B07_Mathematik_2
+≥   ≥   ≥   B08_Vermessungstechnische_DV_und_CAD_2
+≥   ≥   ≥   B09_GeodÑtische_Rechenverfahren_2
+≥   ≥   ≥   B10_Instrumentenkunde_2
+≥   ≥   ≥   B11_Vermessungskunde_2
+≥   ≥   ≥   B12_Mathematische_Methoden_der_GeodÑsie
+≥   ≥   ≥   B13_Studium_Generale_1
+≥   ≥   ≥   B14_Studium_Generale_2
+≥   ≥   ≥   B15_Liegenschaftskataster_und_Liegenschaftsrecht
+≥   ≥   ≥   B16_Vermessungstechnische_DV_und_CAD_3
+≥   ≥   ≥   B17_Vermessungskunde_3
+≥   ≥   ≥   B18_EinfÅhrung_in_die_Ausgleichungsrechnung
+≥   ≥   ≥   B19_Grundlagen_GIS_und_Photogrammetrie
+≥   ≥   ≥   ≥   B19.1_Grundlagen_Photogrammetrie_und_Fernerkundung
+≥   ≥   ≥   ≥   B19.2_Grundlagen_GIS_1
+≥   ≥   ≥   B20_Praxisphase
+≥   ≥   ≥   ≥   B20.1_Praxisphase
+≥   ≥   ≥   ≥   B20.2_Auswertung_von_Erfahrungen_am_Arbeitsplatz
+≥   ≥   ≥   B21_Photogrammetrie_und_Fernerkundung_1
+≥   ≥   ≥   B22_Kartographie
+≥   ≥   ≥   B23_Bauwesen
+≥   ≥   ≥   ≥   B23.1_Baukunde_fÅr_Vermessungsingenieure
+≥   ≥   ≥   ≥   B23.2_Verkehrswege_und_Tiefbau_1
+≥   ≥   ≥   B24_Landesvermessung_und_Ausgleichungsrechnung
+≥   ≥   ≥   ≥   B24.1_Landesvermessung
+≥   ≥   ≥   ≥   B24.2_Ausgleichungsrechnung
+≥   ≥   ≥   B25_Grundlagen_der_Ingenieurvermessung
+≥   ≥   ≥   B26_Photogrammetrie_und_Fernerkundung_2
+≥   ≥   ≥   B27_Grundlagen_GIS_2
+≥   ≥   ≥   B28_Planungswesen
+≥   ≥   ≥   ≥   B28.1_LÑndliche_Neuordnung
+≥   ≥   ≥   ≥   B28.1_Planung_Boden-_und_Bauordnung
+≥   ≥   ≥   B29_Verkehrswege_und_Tiefbau_2
+≥   ≥   ≥   B30_Praxisprojekt
+≥   ≥   ≥   B31_Wahlpflichtmodul_1
+≥   ≥   ≥   ≥   WP01_Liegenschaftsvermessung
+≥   ≥   ≥   ≥   WP02_Wertermittlung
+≥   ≥   ≥   ≥   WP03_Eisenbahnvermessung
+≥   ≥   ≥   ≥   WP04_GeodÑtische_Methoden_zur_ObjektÅberwachung_und_-steuerung
+≥   ≥   ≥   ≥   WP05_Laserscanning
+≥   ≥   ≥   ≥   WP06_Vertiefung_in_Photogrammetrie_und_Fernerkundung
+≥   ≥   ≥   ≥   WP07_Ortsbestimmung_und_Positionierung
+≥   ≥   ≥   ≥   WP08_Programmierung_geodÑtischer_Anwendungen_mit_Java
+≥   ≥   ≥   B32_Wahlpflichtmodul_2
+≥   ≥   ≥   B33_AbschlussprÅfung
+≥   ≥   ≥       B33.1_Bachelor-Arbeit
+≥   ≥   ≥       B33.2_MÅndliche_AbschlussprÅfung
+≥   ≥   Wirtschaftsingenieurwesen Bau
+≥   ≥       B01_Mathematik_im_Wirtschaftsingenieurwesen
+≥   ≥       B02_Technische_Mechanik_im_Wirtschaftsingenieurwesen
+≥   ≥       B03_Baustoffkunde
+≥   ≥       B04_Allgemeine_Betriebswirtschaftslehre
+≥   ≥       B05_Baukonstruktion_I_CAD
+≥   ≥       B06_Englisch_in_GeschÑftswelt_und_Technik
+≥   ≥       B07_Wirtschaftsstatistik
+≥   ≥       B08_Tragwerkslehre
+≥   ≥       B09_Baukonstruktion_II
+≥   ≥       B10_Rechnungswesen
+≥   ≥       B11_Informatik_Datenbanken
+≥   ≥       B12_Englische_GeschÑftskommunikation
+≥   ≥       B13_Bauphysik
+≥   ≥       B14_Massivbau_Stahlbau_I
+≥   ≥       B15_Projektmanagement
+≥   ≥       B16_UnternehmensfÅhrung_Grundlagen
+≥   ≥       B17_Volkswirtschaftslehre
+≥   ≥       B18_Moderations-_und_PrÑsentationstechniken
+≥   ≥       B19_Massivbau_Stahlbau_II
+≥   ≥       B20_Grundbau
+≥   ≥       B21_Kosten-_und_Erlîsrechnung
+≥   ≥       B22_Investitionsrechnung_und_Immobilienfinanzierung
+≥   ≥       B23_Wirtschaftsrecht_Grundlagen
+≥   ≥       B24_Arbeitsorganisation_und_Personalmanagement
+≥   ≥       B25_Baurecht_und_Bauvertrag
+≥   ≥       B26_Verkehrswege-_und_Tiefbau_Grundlagen
+≥   ≥       B27_Marketing_Grundlagen
+≥   ≥       B28_Logistik_Grundlagen
+≥   ≥       B29_Controlling_Grundlagen
+≥   ≥       B30_Steuerlehre_mit_Schwerpunkt_Bauwesen
+≥   ≥       B31_Bauverfahrenstechnik
+≥   ≥       B32_Marketing_Vertiefung
+≥   ≥       B33_Wahlpflichtmodul_I
+≥   ≥       ≥   B33-01_Verkehrswege-_und_Tiefbau_Vertiefung
+≥   ≥       ≥   B33-02_Projekt_im_Ingenieurbau
+≥   ≥       B34_Wahlpflichtmodul_II
+≥   ≥       ≥   B34-01_Bau-Logistik
+≥   ≥       ≥   B34-02_QualitÑtsmanagement_im_Bauwesen
+≥   ≥       B35_Wahlpflichtmodul_III
+≥   ≥       ≥   B35-01_Controlling_Vertiefung
+≥   ≥       ≥   B35-02_Betriebliche_Anwendungssysteme
+≥   ≥       B36_Studium_Generale_I
+≥   ≥       B37_Studium_Generale_II
+≥   ≥       B38_Praxisphase
+≥   ≥       B39_AbschlussprÅfung
+≥   ≥           B39.1_Bachelorarbeit
+≥   ≥           B39.2_MÅndliche_AbschlussprÅfung
+≥   IBP18599 HighEnd Projekte
+≥   ≥   Tutorial
+≥   Master
+≥   ≥   Geodatenerfassung_und_-visualisierung
+≥   ≥   Geoinformation
+≥   ≥   Geoinformation_(auslaufend)
+≥   ≥   Konstruktiver Hoch- und Ingenieurbau
+≥   ≥       M01_Statik_Dynamik
+≥   ≥       M02_Stahlbau
+≥   ≥       M03_Bauphysik
+≥   ≥       M04_Spannbetonbau
+≥   ≥       M05_Bauwerksdiagnostik_Bauen_im_Bestand
+≥   ≥       ≥   M05.1_Bauwerksdiagnostik
+≥   ≥       ≥   M05.2_Bauen_im_Bestand
+≥   ≥       M06_Wahlpflichtmodul_I
+≥   ≥       ≥   WP01_Betontechnologie_vertieft
+≥   ≥       ≥   WP02_BrÅckenbau
+≥   ≥       ≥   WP03_Stahlbau_vertieft _Verbundbau
+≥   ≥       ≥   WP04_Energieeffiziente_Bauweisen
+≥   ≥       ≥   WP05_AusgewÑhlte_Kapitel_Ingenieurbau
+≥   ≥       ≥   WP06_Projektmanagement_im_Bauwesen
+≥   ≥       ≥   WP07_Konstruktiver_Entwurf
+≥   ≥       ≥   WP08_Moderne_Hochleistungsbaustoffe
+≥   ≥       ≥   WP09_Brandschutz
+≥   ≥       M07_Stahlbetonbau_-_Projekt
+≥   ≥       M08_Geotechnik
+≥   ≥       M09_Ingenieurholzbau
+≥   ≥       M10_UnternehmensfÅhrung_Personalmanagement
+≥   ≥       M11_Wahlpflichtmodul_II
+≥   ≥       M12_Wahlpflichtmodul_III
+≥   ≥       M13_Studium_Generale_I
+≥   ≥       M14_Studium_Generale_II
+≥   ≥       M15_AbschlussprÅfung
+≥   ≥           M15.1_Masterarbeit
+≥   ≥           M15.2_Masterkolloquium_mit_mÅndlicher_AbschlussprÅfung
+≥   StudiumGenerale
+≥       Antike_Rîmische_Geschichte
+≥       Interkulturelle_Kompetenz_China
+≥       Medien_und_ihre_gesellschaftliche_Bedeutung
+≥       Spanisch_1
+≥       Steuerlehre_fÅr_ExistenzgrÅnder
+02 - Probeklausuren
+03 - Normen
+≥   BMV
+≥   Brueckenbau
+≥   ≥   ARS
+≥   ≥   EBA_Lager
+≥   DIN EN_10025 warmgewalzte Erzeugnisse aus BaustÑhlen
+≥   DIN EN_10028 Flachstahlerzeugnisse aus DruckbehÑlterstÑhlen
+≥   DIN EN_10029 warmgewalztes Stahlblech ab 3 mm
+≥   DIN EN_10051 kontinuierlich warmgewalztes Blech und Band
+≥   DIN EN_10058 warmgewalzte FlachstÑbe aus Stahl
+≥   DIN EN_10083 VergÅtungsstÑhle
+≥   DIN EN_10088 Nichtrostende StÑhle
+≥   DIN EN_10164 Dopplungen
+≥   DIN EN_10164 Stahlerz m verbesserten VerfEigenschaften senkr z ErzOberflÑche
+≥   DIN EN_10210 warmgefertigte Hohlprofile Stahlbau
+≥   DIN EN_10339 Stahlrohre fÅr erd- und wasserverlegte Rohrleitungen - Innenauskleidung
+≥   DIN EN_12068 Kathodischer Korrosionsschutz - UmhÅllungen
+≥   DIN EN_12329 Korrosionsschutz von Metallen - Galvanische ZinkÅberzÅge
+≥   DIN EN_12330 Korrosionsschutz von Metallen - Galvanische KadmiumÅberzÅge
+≥   DIN EN_12474 Kathodischer Korrosionsschutz fÅr unterseeische Rohrleitungen
+≥   DIN EN_12810-2 FassadengrÅste aus vorgef. Bauteilen
+≥   DIN EN_12811 GerÅste
+≥   DIN EN_12812 TraggerÅste
+≥   DIN_1045
+≥   ≥   2008
+≥   DIN_105
+≥   DIN_1052
+≥   DIN_1053
+≥   DIN_1054
+≥   DIN_1055
+≥   ≥   Teil_4_Wind
+≥   ≥   Teil_5_Schnee
+≥   DIN_1056
+≥   DIN_1057
+≥   DIN_106
+≥   DIN_107
+≥   DIN_1072
+≥   DIN_1259
+≥   DIN_18195
+≥   DIN_18196
+≥   DIN_18197
+≥   DIN_18200
+≥   DIN_18202
+≥   DIN_18203
+≥   DIN_18218
+≥   DIN_18299
+≥   DIN_18300
+≥   DIN_18330
+≥   DIN_18331
+≥   DIN_18500
+≥   DIN_18516
+≥   DIN_18580
+≥   DIN_18599
+≥   DIN_18800
+≥   ≥   Ausgabe_11_2008
+≥   DIN_18801
+≥   DIN_18807
+≥   DIN_18808
+≥   DIN_18809
+≥   ≥   DIN_18808
+≥   DIN_20000
+≥   ≥   DIN_18809
+≥   ≥       DIN_18808
+≥   DIN_24531
+≥   DIN_24537
+≥   DIN_276
+≥   DIN_4017
+≥   DIN_4018
+≥   DIN_4019
+≥   DIN_4020
+≥   DIN_4021
+≥   DIN_4023
+≥   DIN_4024
+≥   DIN_4074
+≥   DIN_4084
+≥   DIN_4085
+≥   DIN_4093
+≥   DIN_4094
+≥   DIN_4095
+≥   DIN_4099
+≥   DIN_4102
+≥   DIN_4108
+≥   DIN_4109
+≥   DIN_4113
+≥   DIN_4123
+≥   DIN_4124
+≥   DIN_4126
+≥   DIN_4127
+≥   DIN_4131
+≥   DIN_4132
+≥   DIN_4133
+≥   DIN_4141
+≥   DIN_4149
+≥   DIN_4213
+≥   DIN_4223
+≥   DIN_4420
+≥   DIN_4425
+≥   DIN_488
+≥   DIN_53150
+≥   DIN_55928
+≥   DIN_571
+≥   DIN_7968
+≥   DIN_7969
+≥   DIN_7990
+≥   DIN_EN_10021
+≥   DIN_EN_10025
+≥   DIN_EN_10080
+≥   DIN_EN_10088
+≥   DIN_EN_10204
+≥   DIN_EN_10210
+≥   DIN_EN_10219
+≥   DIN_EN_1065
+≥   DIN_EN_12150
+≥   DIN_EN_12350
+≥   DIN_EN_12369
+≥   DIN_EN_12504
+≥   DIN_EN_12716
+≥   DIN_EN_12794
+≥   DIN_EN_12811
+≥   DIN_EN_12812
+≥   DIN_EN_12813
+≥   DIN_EN_13022
+≥   DIN_EN_13271
+≥   DIN_EN_1337
+≥   DIN_EN_14199
+≥   DIN_EN_14250
+≥   DIN_EN_14399
+≥   DIN_EN_14487
+≥   DIN_EN_14731
+≥   DIN_EN_14843
+≥   DIN_EN_14889
+≥   DIN_EN_14963
+≥   DIN_EN_14991
+≥   DIN_EN_1520
+≥   DIN_EN_1536
+≥   DIN_EN_1537
+≥   DIN_EN_1990
+≥   DIN_EN_1991
+≥   DIN_EN_1992
+≥   DIN_EN_1993
+≥   DIN_EN_1994
+≥   DIN_EN_1995
+≥   DIN_EN_1996
+≥   DIN_EN_287
+≥   DIN_EN_356
+≥   DIN_EN_357
+≥   DIN_EN_39
+≥   DIN_EN_4100
+≥   DIN_EN_572
+≥   DIN_EN_74
+≥   DIN_EN_845
+≥   DIN_EN_ISO_10042
+≥   DIN_EN_ISO_12944
+≥   DIN_EN_ISO_13919
+≥   DIN_EN_ISO_14122
+≥   DIN_EN_ISO_1461
+≥   DIN_EN_ISO_14713
+≥   DIN_EN_ISO_14731
+≥   DIN_EN_ISO_15607
+≥   DIN_EN_ISO_15609
+≥   DIN_EN_ISO_15610
+≥   DIN_EN_ISO_15611
+≥   DIN_EN_ISO_15612
+≥   DIN_EN_ISO_15613
+≥   DIN_EN_ISO_15614
+≥   DIN_EN_ISO_15630
+≥   DIN_EN_ISO_17652
+≥   DIN_EN_ISO_17660
+≥   DIN_EN_ISO_3766
+≥   DIN_EN_ISO_3834
+≥   DIN_EN_ISO_5817
+≥   DIN_EN_ISO_9606
+≥   DIN_Fachberichte
+≥   ≥   100
+≥   ≥   101
+≥   ≥   102
+≥   ≥   103
+≥   ≥   104
+≥   ≥   129
+≥   ≥   Einf_Fachberichte_2009
+≥   DIN_ISO_15011
+≥   EC_3
+≥   EN_206_Beton
+≥   ETB
+≥   GebOP
+≥   nabau
+≥   NAD_DIN_V_ENV_1992
+≥   NAD_DIN_V_ENV_1995
+≥   Richtl
+≥   Ril_EBA
+≥   ≥   BN_918_002
+≥   ≥   ELTB
+≥   ≥   Ril_804
+≥   ≥   ≥   804-9050
+≥   ≥   ≥   804-9051
+≥   ≥   ≥   804-9052
+≥   ≥   Ril_853_Tunnel
+≥   TRAV
+≥   Verglasung
+≥   Verwaltung
+04 - Fragenkataloge
+    Bachelor
+    ≥   Bauingenieuwesen
+    ≥   ≥   B01_Studium_Generale_1
+    ≥   ≥   B02_Studium_Generale_2
+    ≥   ≥   B03_Baukonstruktion_1_und_CAD
+    ≥   ≥   ≥   B03.1_Baukonstruktion_1
+    ≥   ≥   ≥   B03.2_CAD
+    ≥   ≥   B04_Baustoffe_1
+    ≥   ≥   B05_Mathematik
+    ≥   ≥   B06_TechnischeMechanik_und_Tragwerkslehre
+    ≥   ≥   B07_Verkehrswesen_und_Vermessung
+    ≥   ≥   ≥   B07.1_Vermessung
+    ≥   ≥   ≥   B07.2_Verkehrswesen
+    ≥   ≥   B08_Baukonstruktion_2
+    ≥   ≥   B09_Baustoffe_2
+    ≥   ≥   B10_Verkehrswegeplanung
+    ≥   ≥   B11_Mathematik_und_Numerik
+    ≥   ≥   B12_Technische_Mechanik
+    ≥   ≥   B13_Hydraulik
+    ≥   ≥   B14_Bauphysik
+    ≥   ≥   B15_Baubetrieb_1
+    ≥   ≥   B16_Massivbau_1
+    ≥   ≥   B17_Holzbau
+    ≥   ≥   B18_Baustatik1
+    ≥   ≥   B19_Grundbau_und_Stra·enbau
+    ≥   ≥   ≥   B19.1_Grundbau
+    ≥   ≥   ≥   B19.2_Stra·enbau
+    ≥   ≥   B20_Geotechnik_1
+    ≥   ≥   B21_Baubetrieb_2
+    ≥   ≥   B22_Massivbau_2
+    ≥   ≥   B23_Stahlbau_1
+    ≥   ≥   B24_Baustatik_2
+    ≥   ≥   B25_Wasserwesen
+    ≥   ≥   B26_Baubetrieb_3_und_Sicherheit_am_Bau
+    ≥   ≥   ≥   B26.1_Baubetrieb_3
+    ≥   ≥   ≥   B26.2_Sicherheit_am_Bau
+    ≥   ≥   B27_InterdisziplinÑre_Kompetenzen
+    ≥   ≥   ≥   B27.1_Vetragsrecht_fÅr_Planer_und_Baubetriebe
+    ≥   ≥   ≥   B27.2_Englisch_im_Bauwesen
+    ≥   ≥   B28_Praxisphase
+    ≥   ≥   B29_Auswertung_und_Erfahrungen_am_Arbeitsplatz
+    ≥   ≥   B40_AbschlussprÅfung
+    ≥   ≥   ≥   B40.1_Bachelor-Arbeit
+    ≥   ≥   ≥   B40.2_MÅndliche AbschlussprÅfung
+    ≥   ≥   SP1_Konstruktiver_Ingenieurbau
+    ≥   ≥   ≥   SP1.01_Geotechnik_2
+    ≥   ≥   ≥   SP1.02_Massivbau_3
+    ≥   ≥   ≥   SP1.03_Stahlbau_2
+    ≥   ≥   ≥   SP1.04_Hochbaukonstruktion
+    ≥   ≥   ≥   SP1.05_Wahlpflichtmodul_1
+    ≥   ≥   ≥   ≥   WP.SP1.01_Hochbaukonstruktion_vertieft
+    ≥   ≥   ≥   ≥   WP.SP1.02_Holzbau_vertieft
+    ≥   ≥   ≥   ≥   WP.SP1.03_Ingenieurbau
+    ≥   ≥   ≥   ≥   WP.SP1.04_Stahlbau_vertieft
+    ≥   ≥   ≥   ≥   WP.SP1.05_AusgewÑhlte_Kapitel_Konstruktionsbau
+    ≥   ≥   ≥   ≥   WP.SP1.06_Grundlagen_des_Brandschutzes
+    ≥   ≥   ≥   ≥   WP01_Betontechnologie
+    ≥   ≥   ≥   ≥   WP02_CAD_Anwendung
+    ≥   ≥   ≥   ≥   WP03_Geotechnik_vertieft
+    ≥   ≥   ≥   SP1.06_Wahlpflichtmodul_2
+    ≥   ≥   ≥   SP1.07_Projekt_mit_EDV-Anwendung
+    ≥   ≥   ≥   SP1.08_Baubetrieb_4_und_Planungs-_und_Bauordnungsrecht
+    ≥   ≥   ≥   ≥   SP1-08.1_Baubetrieb_4-Baumanagement
+    ≥   ≥   ≥   ≥   SP1-08.2_Planungs-_und_Bauordnungsrecht
+    ≥   ≥   ≥   SP1.09_Massivbau_4
+    ≥   ≥   ≥   SP1.10_Wahlpflichtmodul_3
+    ≥   ≥   SP2_Verkehrs-_und_Wasserwesen
+    ≥   ≥       SP2.01_Geotechnik_2
+    ≥   ≥       SP2.02_Stra·enbautechnik
+    ≥   ≥       SP2.03_Siedlungswasserwirtschaft
+    ≥   ≥       SP2.04_Verkehrstechnik
+    ≥   ≥       SP2.05_Wasserbau
+    ≥   ≥       SP2.06_Wahlpflichtmodul_1
+    ≥   ≥       ≥   WP.SP2.01_Stra·enbautechnik_vertieft
+    ≥   ≥       ≥   WP.SP2.02_Verkehrsplanung
+    ≥   ≥       ≥   WP.SP2.03_Siedlungswasserwirtschaft_vertieft
+    ≥   ≥       ≥   WP.SP2.04_Wasserbau_vertieft
+    ≥   ≥       ≥   WP.SP2.05_AusgewÑhlte_Kapitel_Verkehr_und_Wasser
+    ≥   ≥       ≥   WP.SP2.06_Projekt_Geotechnik
+    ≥   ≥       ≥   WP.SP2.07_Agrar_und_Kulturbau
+    ≥   ≥       SP2.07_Projekt_mit_EDV-Anwendung
+    ≥   ≥       SP2.08_Baubetrieb_4_und_Planungs-_und_Bauordnungsrecht
+    ≥   ≥       ≥   SP1-08.1_Baubetrieb_4-Baumanagement
+    ≥   ≥       ≥   SP1-08.2_Planungs-_und_Bauordnungsrecht
+    ≥   ≥       SP2.09_Wahlpflichtmodul_2
+    ≥   ≥       SP2.10_Wahlpflichtmodul_3
+    ≥   Geoinformation
+    ≥   ≥   B01_Grundlagen_wissenschaftlicher_projektbezogener_Arbeit
+    ≥   ≥   B02_Englisch_fÅr_Geoinformationswesen
+    ≥   ≥   B03_Mathematik
+    ≥   ≥   B04_Grundlagen_Geoinformationssysteme
+    ≥   ≥   B05_Grundlagen_der_Kartographie
+    ≥   ≥   B06_Grundlagen_der_Vermessungskunde
+    ≥   ≥   B07_Informatik
+    ≥   ≥   B08_Grundlagen_der_Fernerkundung_und_Photogrammetrie
+    ≥   ≥   B09_Statistik_und_Messunsicherheit
+    ≥   ≥   B10_Wahlpflichtmodul_A1_oder_A2
+    ≥   ≥   ≥   B10.A1_Visualisierung_von_Geodaten_(CAD)
+    ≥   ≥   ≥   B10.A2_Visualisierung_von_Geodaten_(DTM)
+    ≥   ≥   B11_Geoinformatik
+    ≥   ≥   B12_Fernerkundung
+    ≥   ≥   B13_Wahlpflichtmodul_B1_oder_B2
+    ≥   ≥   ≥   B13.B1_GeodÑtische_Auswertemethoden
+    ≥   ≥   ≥   B13.B2_Kartennetze_und_Transformationen
+    ≥   ≥   B14_Wahlpflichtmodul_C1_oder_C2
+    ≥   ≥   ≥   B14.C1_Physische_Geographie
+    ≥   ≥   ≥   B14.C2_Liegenschaftskataster_und_-recht
+    ≥   ≥   B15_Wahlpflichtmodul_D1_oder_D2
+    ≥   ≥   ≥   B15.D1_Humangeographie
+    ≥   ≥   ≥   B15.D2_Planungswesen
+    ≥   ≥   ≥       B15.D2a_Planung,_Boden-_und_Bauordnung
+    ≥   ≥   ≥       B15.D2b_LÑndliche_Neuordnung
+    ≥   ≥   B16_Praxisphase
+    ≥   ≥   B17_Wahlpflichtmodul_E1_oder_E2
+    ≥   ≥   ≥   B17.E1_Navigation
+    ≥   ≥   ≥   B17.E2_Bauwesen
+    ≥   ≥   B18_Wahlpflichtmodul_l
+    ≥   ≥   ≥   WP01_Geoinformation_und_RPAS
+    ≥   ≥   ≥   WP02_Virtuelle_3D-Stadtmodelle
+    ≥   ≥   ≥   WP03_Digitale_Bildverarbeitung_in_Fernerkundung_und_Photogrammetrie
+    ≥   ≥   ≥   WP04_GIS_im_Wasserbau
+    ≥   ≥   ≥   WP05_GIS_in_der_Praxis
+    ≥   ≥   ≥   WP06_Thematische_Kartographie
+    ≥   ≥   ≥   WP07_EinfÅhrung_statistische_Software
+    ≥   ≥   ≥   WP08_Anwendungsentwicklung_mit_Python
+    ≥   ≥   ≥   WP09_Webserver_und_GDI_(Geodateninfrastrukturen)
+    ≥   ≥   ≥   WP10_Kartographische_Infografiken
+    ≥   ≥   ≥   WP11_Satellitenbildkarten
+    ≥   ≥   ≥   WP12_Umweltinformation
+    ≥   ≥   ≥   WP13_Photogrammetrie_I
+    ≥   ≥   ≥   WP14_Photogrammetrie_II
+    ≥   ≥   ≥   WP15_HauptvermessungsÅbung
+    ≥   ≥   ≥   WP16_Bauabrechnung
+    ≥   ≥   ≥   WP17_BauwerksÅberwachung_und_Beweissicherung
+    ≥   ≥   ≥   WP18_GeodÑtische_Methoden_zur_ObjektÅberwachung_und_-steuerung
+    ≥   ≥   ≥   WP19_Laserscanning
+    ≥   ≥   ≥   WP20_Liegenschaftsvermessung
+    ≥   ≥   ≥   WP21_Ortsbestimmung_und_Navigation
+    ≥   ≥   ≥   WP22_Programmierung_von_Geo-Anwendungen_mit_Java
+    ≥   ≥   ≥   WP23_Vertiefung Photogrammetrie und Fernerkundung
+    ≥   ≥   ≥   WP24_Werteermittlung
+    ≥   ≥   ≥   WP25_Geo_Exkursion
+    ≥   ≥   ≥   WP26_Betriebswirtschaftslehre
+    ≥   ≥   B19_Wahlpflichtmodul_ll
+    ≥   ≥   B20_Studium_Generale
+    ≥   ≥   B21_Wahlpflichtmodul_F1_oder_F2
+    ≥   ≥   ≥   B21.F1_Mobile_Geoanwendung
+    ≥   ≥   ≥   B21.F2_Verkehrswegebau
+    ≥   ≥   B22_AbschlussprÅfung
+    ≥   ≥   ≥   B22.1_Bachelorarbeit
+    ≥   ≥   ≥   B22.2_MÅndliche_AbschlussprÅfung
+    ≥   ≥   SP1_Angewandte_Geoinformatik
+    ≥   ≥   ≥   SP1.01_Modelle_der_Geographie_und_Umweltwissenschaften
+    ≥   ≥   ≥   SP1.02_GIS_GelÑndepraktikum
+    ≥   ≥   ≥   SP1.03_RÑumliche_Datenmodellierung_mit_GIS
+    ≥   ≥   ≥   SP1.04_Geodatenbanken
+    ≥   ≥   ≥   SP1.05_RÑumliche_Datenanalyse_mit_GIS
+    ≥   ≥   ≥   SP1.06_Geodatenmodelle
+    ≥   ≥   ≥   SP1.07_Multivariate_Geodatenanalyse
+    ≥   ≥   ≥   SP1.08_3D_Geodaten
+    ≥   ≥   ≥   SP1.09_Geodatendienste
+    ≥   ≥   ≥   SP1.10_Geo_IT_Projekte
+    ≥   ≥   SP2_GeodÑsie
+    ≥   ≥   ≥   SP2.01_Instrumentenkunde_Sensorik
+    ≥   ≥   ≥   SP2.02_GeodÑtische_Rechenverfahren
+    ≥   ≥   ≥   SP2.03_Vermessungskunde_I_(Bezugssysteme)
+    ≥   ≥   ≥   SP2.04_Mathematische_Methoden_der_GeodÑsie
+    ≥   ≥   ≥   SP2.05_Vermessungskunde_II
+    ≥   ≥   ≥   SP2.06_Photogrammetrie_I
+    ≥   ≥   ≥   SP2.07_Ingenieurvermessung
+    ≥   ≥   ≥   SP2.08_Photogrammetrie_und_3D_Modellierung
+    ≥   ≥   ≥   SP2.09_Ausgleichungsrechnung
+    ≥   ≥   ≥   SP2.10_Geoinformationssysteme
+    ≥   ≥   SP3_Geomedien_und_Kartographie
+    ≥   ≥       SP3.01_GIS-Anwendungen
+    ≥   ≥       SP3.02_Grafik-Design
+    ≥   ≥       SP3.03_Thematische_Kartographie
+    ≥   ≥       SP3.04_Topographische_Kartographie
+    ≥   ≥       SP3.05_Kartographische_Printmedien
+    ≥   ≥       SP3.06_Web_Mapping_I
+    ≥   ≥       SP3.07_Web_Mapping_II
+    ≥   ≥       SP3.08_Geomedienprojekt
+    ≥   ≥       SP3.09_Kartendesign
+    ≥   ≥       SP3.10_AusgewÑhlte_Kapitel_der_Kartographie
+    ≥   Geoinformation (auslaufend WiSe1415)
+    ≥   ≥   B01_Mathematik_I
+    ≥   ≥   B02_Grundlagen_wissenschaftlicher_projektbezogener_Arbeit
+    ≥   ≥   B03_Informatik_I
+    ≥   ≥   B04_Datenerfassung_mit_geodÑtischen_Methoden_I
+    ≥   ≥   B05_Grundlagen_der_Kartographie
+    ≥   ≥   B06_Grundlagen_der_Geo-Informationssysteme
+    ≥   ≥   B07_Mathematik_II
+    ≥   ≥   B08_Englisch_fÅr_Geoinformationswesen
+    ≥   ≥   B09_Geographie_I
+    ≥   ≥   B10_Informatik_II
+    ≥   ≥   B11_Datenerfassung_mit_geodÑtischen_Methoden_II
+    ≥   ≥   B12_Visualisierung_raumbezogener_Daten
+    ≥   ≥   B13_Studium_Generale_I
+    ≥   ≥   B14_Studium_Generale_II
+    ≥   ≥   B15_Geographie_II
+    ≥   ≥   B16_Photogrammetrie_I
+    ≥   ≥   B17_Informatik_III
+    ≥   ≥   B18_GIS-Projekt_I
+    ≥   ≥   B19_SatellitengeodÑsie_und_GIS_in_der_Vermessung
+    ≥   ≥   B20_Praxisphase
+    ≥   ≥   ≥   B20.1_Praxisphase
+    ≥   ≥   ≥   B20.2_Auswertung_von_Erfahrungen_am_Arbeitsplatz
+    ≥   ≥   B21_Betriebswirtschaftslehre
+    ≥   ≥   B22_Photogrammetrie_II
+    ≥   ≥   B23_Fernerkundung_I
+    ≥   ≥   B24_Fernerkundung_II
+    ≥   ≥   B25_Wahlpflichtmodul_I
+    ≥   ≥   ≥   WP01_GIS_in_der_Praxis
+    ≥   ≥   ≥   WP02_Landschaftsmodelle_(DLM)
+    ≥   ≥   ≥   WP03_Statistische_Methoden_und_Anwendungen
+    ≥   ≥   ≥   WP04_GIS_im_Wasserbau
+    ≥   ≥   ≥   WP05_Geodateninfrastrukturen_(GDI)
+    ≥   ≥   ≥   WP06_Vertiefung_in_Photogrammetrie_und_Fernerkundung
+    ≥   ≥   ≥   WP07_Virtuelle_3D-Stadt-_und_Landschaftsmodellierung
+    ≥   ≥   B26_InternetprÑsentation
+    ≥   ≥   B27_Recht_I
+    ≥   ≥   B28_Digitale_Reproduktion
+    ≥   ≥   B29_GIS-Projekt_II
+    ≥   ≥   B30_Recht_II
+    ≥   ≥   B31_Wahlpflichtmodul_II
+    ≥   ≥   B32_Regionale_Geographie
+    ≥   ≥   B33_AbschlussprÅfung
+    ≥   ≥       B33.1_Bachelor-Arbeit
+    ≥   ≥       B33.2_MÅndliche_AbschlussprÅfung
+    ≥   Kartographie und Geomedien (auslaufend WiSe1415)
+    ≥   ≥   B01_Grundlagen_wissenschaftlicher_projektbezogener_Arbeit
+    ≥   ≥   B02_Grundlagen_der_Kartographie
+    ≥   ≥   B03_Mathematik
+    ≥   ≥   B04_Grafik-Design
+    ≥   ≥   B05_Desktop_Mapping
+    ≥   ≥   B06_Geographie_1
+    ≥   ≥   B07_Geographie_2
+    ≥   ≥   B08_Englisch_fÅr_Geoinformationswesen
+    ≥   ≥   B09_Darstellende_Geometrie
+    ≥   ≥   B10_EinfÅhrung_in_GIS
+    ≥   ≥   B11_Topographische_Kartographie
+    ≥   ≥   B12_Thematische_Kartographie
+    ≥   ≥   B13_Kartographische_Printmedien
+    ≥   ≥   B14_Kartographische_Datenverarbeitung
+    ≥   ≥   B15_Fernerkundung
+    ≥   ≥   B16_Statistik_in_der_Kartographie
+    ≥   ≥   B17_Studium_Generale_1
+    ≥   ≥   B18_Studium_Generale_2
+    ≥   ≥   B19_Kartennetzlehre
+    ≥   ≥   B20_ Praxisphase
+    ≥   ≥   ≥   B20.1_Praxisphase
+    ≥   ≥   ≥   B20.2_Auswertung_von_Erfahrungen_am_Arbeitsplatz
+    ≥   ≥   B21_Kartographische_Seitengestaltung
+    ≥   ≥   B22_Verlagskartographie
+    ≥   ≥   B23_Vermessungskunde
+    ≥   ≥   B24_GIS-Anwendungen
+    ≥   ≥   B25_Photogrammetrie
+    ≥   ≥   B26_BWL_und_Recht
+    ≥   ≥   ≥   B26.1_BWL
+    ≥   ≥   ≥   B26.2_Recht
+    ≥   ≥   B27_Internetkartographie
+    ≥   ≥   B28_Wahlpflichtmodul_1
+    ≥   ≥   ≥   WP01_EinfÅhrung_in_SVG
+    ≥   ≥   ≥   WP02_Satellitenbildkarten
+    ≥   ≥   ≥   WP03_Pressekartographie
+    ≥   ≥   ≥   WP04_Vertiefung_Fernerkundung
+    ≥   ≥   ≥   WP05_GIS_in_der_Praxis
+    ≥   ≥   ≥   WP06_Webserver
+    ≥   ≥   B29_GelÑndedarstellung
+    ≥   ≥   B30_Wahlpflichtmodul_2
+    ≥   ≥   B31_Multimediale_Kartographie
+    ≥   ≥   B32_AusgewÑhlte_Kapitel_der_Kartographie
+    ≥   ≥   B33_ AbschlussprÅfung
+    ≥   ≥       B33.1_Bachelor-Arbeit
+    ≥   ≥       B33.2_MÅndliche_AbschlussprÅfung
+    ≥   Umweltingenieurwesen Bau
+    ≥   ≥   B01_CAD_GIS_Grundlagen
+    ≥   ≥   ≥   B01.1_CAD_Grundlagen
+    ≥   ≥   ≥   B01.2_GIS_Grundlagen
+    ≥   ≥   B02_Mathematik
+    ≥   ≥   B03_Technische_Mechanik_Tragwerkslehre
+    ≥   ≥   B04_Methodische_Grundlagen_wissenschaftlichen_Arbeitens
+    ≥   ≥   B05_Allgemeine_ôkologie
+    ≥   ≥   B06_Grundbau_Boden
+    ≥   ≥   B07_GIS_Anwendungen
+    ≥   ≥   B08_Umweltverfahrenstechnik
+    ≥   ≥   B09_Baustoffe
+    ≥   ≥   ≥   B09.1_Baustoffe_Vorlesung
+    ≥   ≥   ≥   B09.2_Baustoffe_öbung
+    ≥   ≥   B10_Hydraulik_und_Hydrologie
+    ≥   ≥   ≥   B10.1_Hydraulik_und_Hydrologie_Vorlesung
+    ≥   ≥   ≥   B10.2_Hydraulik_und_Hydrologie_öbung
+    ≥   ≥   B11_Landschafts-_und_Stadtîkologie
+    ≥   ≥   B12_Umweltîkonomie
+    ≥   ≥   B13_Studium_Generale_I
+    ≥   ≥   B14_Studium_Generale_II
+    ≥   ≥   B15_MobilitÑtsplanung
+    ≥   ≥   B16_Konstruktiver_Ingenieurbau
+    ≥   ≥   B17_Siedlungswasserwirtschaft
+    ≥   ≥   B18_Planungs-_und_Umweltrecht
+    ≥   ≥   B19_Geohydraulik
+    ≥   ≥   B20_Wahlpflichtmodul_I
+    ≥   ≥   ≥   WP01_AusgewÑhlte_Kapitel_Umwelt
+    ≥   ≥   ≥   WP02_Beteiligungsverfahren
+    ≥   ≥   ≥   WP03_Technische_Zusammenarbeit
+    ≥   ≥   ≥   WP04_Projekt_Geotechnik
+    ≥   ≥   ≥   WP05_Agrarwirtschaft_und_Kulturbau
+    ≥   ≥   ≥   WP06_GIS_Projekt_II
+    ≥   ≥   ≥   WP07_Betontechnologie
+    ≥   ≥   ≥   WP08_Stra·enbautechnik_vertieft
+    ≥   ≥   ≥   WP09_Verkehrsplanung
+    ≥   ≥   ≥   WP10_Siedlungswasserwirtschaft_vertieft
+    ≥   ≥   ≥   WP11_Wasserbau_vertieft
+    ≥   ≥   ≥   WP12_Umweltmanagement
+    ≥   ≥   ≥   WP13_Behandlung_von_Abwasser_Abluft_und_AbfÑllen
+    ≥   ≥   ≥   WP14_AusgewÑhlte_Kapitel_MobilitÑt_der_Zukunft
+    ≥   ≥   B21_Verkehrsanlagen
+    ≥   ≥   B22_Bauphysik
+    ≥   ≥   B23_Wasserbau
+    ≥   ≥   B24_Raumplanung
+    ≥   ≥   B25_Grundbau_Geotechnik
+    ≥   ≥   B26_Wahlpflichtmodul_II
+    ≥   ≥   B27_Verkehrstechnik
+    ≥   ≥   B28_Geodatenanalyse
+    ≥   ≥   B29_GewÑsserschutz
+    ≥   ≥   B30_UmweltprÅfung
+    ≥   ≥   B31_Projektsteuerung
+    ≥   ≥   B32_Wahlpflichtmodul_III
+    ≥   ≥   B33_Fachenglisch
+    ≥   ≥   B34_Interkulturelle_Kompetenzen
+    ≥   ≥   B35_Projektarbeit
+    ≥   ≥   B36_Baustoffrecycling
+    ≥   ≥   B37_Abfallwirtschaft_und_Stoffkreislauf
+    ≥   ≥   B38_Betriebswirtschaftslehre
+    ≥   ≥   B39_Praxisphase
+    ≥   ≥   B40_AbschlussprÅfung
+    ≥   ≥       B40.1_Bachelorarbeit
+    ≥   ≥       B40.2_MÅndliche_AbschlussprÅfung
+    ≥   Vermessungswesen und Geomatik (auslaufend WiSe1415)
+    ≥   ≥   B01_Englisch_fÅr_Geoinformationswesen
+    ≥   ≥   B02_Mathematische_und_physiaklische_Grundlagen
+    ≥   ≥   ≥   B02.1_Mathematik_1
+    ≥   ≥   ≥   B02.2_Physik
+    ≥   ≥   B03_Vermessungstechnische_DV_und_CAD_1
+    ≥   ≥   B04_GeodÑtische_Rechenverfahren_1
+    ≥   ≥   B05_Grundlagen_der_Instrumentenkunde
+    ≥   ≥   ≥   B05.1_Physikalische_Grundlagen_der_Instrumentenkunde
+    ≥   ≥   ≥   B05.2_Instrumentenkunde_1
+    ≥   ≥   B06_Vermessungskunde_1
+    ≥   ≥   B07_Mathematik_2
+    ≥   ≥   B08_Vermessungstechnische_DV_und_CAD_2
+    ≥   ≥   B09_GeodÑtische_Rechenverfahren_2
+    ≥   ≥   B10_Instrumentenkunde_2
+    ≥   ≥   B11_Vermessungskunde_2
+    ≥   ≥   B12_Mathematische_Methoden_der_GeodÑsie
+    ≥   ≥   B13_Studium_Generale_1
+    ≥   ≥   B14_Studium_Generale_2
+    ≥   ≥   B15_Liegenschaftskataster_und_Liegenschaftsrecht
+    ≥   ≥   B16_Vermessungstechnische_DV_und_CAD_3
+    ≥   ≥   B17_Vermessungskunde_3
+    ≥   ≥   B18_EinfÅhrung_in_die_Ausgleichungsrechnung
+    ≥   ≥   B19_Grundlagen_GIS_und_Photogrammetrie
+    ≥   ≥   ≥   B19.1_Grundlagen_Photogrammetrie_und_Fernerkundung
+    ≥   ≥   ≥   B19.2_Grundlagen_GIS_1
+    ≥   ≥   B20_Praxisphase
+    ≥   ≥   ≥   B20.1_Praxisphase
+    ≥   ≥   ≥   B20.2_Auswertung_von_Erfahrungen_am_Arbeitsplatz
+    ≥   ≥   B21_Photogrammetrie_und_Fernerkundung_1
+    ≥   ≥   B22_Kartographie
+    ≥   ≥   B23_Bauwesen
+    ≥   ≥   ≥   B23.1_Baukunde_fÅr_Vermessungsingenieure
+    ≥   ≥   ≥   B23.2_Verkehrswege_und_Tiefbau_1
+    ≥   ≥   B24_Landesvermessung_und_Ausgleichungsrechnung
+    ≥   ≥   ≥   B24.1_Landesvermessung
+    ≥   ≥   ≥   B24.2_Ausgleichungsrechnung
+    ≥   ≥   B25_Grundlagen_der_Ingenieurvermessung
+    ≥   ≥   B26_Photogrammetrie_und_Fernerkundung_2
+    ≥   ≥   B27_Grundlagen_GIS_2
+    ≥   ≥   B28_Planungswesen
+    ≥   ≥   ≥   B28.1_LÑndliche_Neuordnung
+    ≥   ≥   ≥   B28.1_Planung_Boden-_und_Bauordnung
+    ≥   ≥   B29_Verkehrswege_und_Tiefbau_2
+    ≥   ≥   B30_Praxisprojekt
+    ≥   ≥   B31_Wahlpflichtmodul_1
+    ≥   ≥   ≥   WP01_Liegenschaftsvermessung
+    ≥   ≥   ≥   WP02_Wertermittlung
+    ≥   ≥   ≥   WP03_Eisenbahnvermessung
+    ≥   ≥   ≥   WP04_GeodÑtische_Methoden_zur_ObjektÅberwachung_und_-steuerung
+    ≥   ≥   ≥   WP05_Laserscanning
+    ≥   ≥   ≥   WP06_Vertiefung_in_Photogrammetrie_und_Fernerkundung
+    ≥   ≥   ≥   WP07_Ortsbestimmung_und_Positionierung
+    ≥   ≥   ≥   WP08_Programmierung_geodÑtischer_Anwendungen_mit_Java
+    ≥   ≥   B32_Wahlpflichtmodul_2
+    ≥   ≥   B33_AbschlussprÅfung
+    ≥   ≥       B33.1_Bachelor-Arbeit
+    ≥   ≥       B33.2_MÅndliche_AbschlussprÅfung
+    ≥   Wirtschaftsingenieurwesen Bau
+    ≥       B01_Mathematik_im_Wirtschaftsingenieurwesen
+    ≥       B02_Technische_Mechanik_im_Wirtschaftsingenieurwesen
+    ≥       B03_Baustoffkunde
+    ≥       B04_Allgemeine_Betriebswirtschaftslehre
+    ≥       B05_Baukonstruktion_I_CAD
+    ≥       B06_Englisch_in_GeschÑftswelt_und_Technik
+    ≥       B07_Wirtschaftsstatistik
+    ≥       B08_Tragwerkslehre
+    ≥       B09_Baukonstruktion_II
+    ≥       B10_Rechnungswesen
+    ≥       B11_Informatik_Datenbanken
+    ≥       B12_Englische_GeschÑftskommunikation
+    ≥       B13_Bauphysik
+    ≥       B14_Massivbau_Stahlbau_I
+    ≥       B15_Projektmanagement
+    ≥       B16_UnternehmensfÅhrung_Grundlagen
+    ≥       B17_Volkswirtschaftslehre
+    ≥       B18_Moderations-_und_PrÑsentationstechniken
+    ≥       B19_Massivbau_Stahlbau_II
+    ≥       B20_Grundbau
+    ≥       B21_Kosten-_und_Erlîsrechnung
+    ≥       B22_Investitionsrechnung_und_Immobilienfinanzierung
+    ≥       B23_Wirtschaftsrecht_Grundlagen
+    ≥       B24_Arbeitsorganisation_und_Personalmanagement
+    ≥       B25_Baurecht_und_Bauvertrag
+    ≥       B26_Verkehrswege-_und_Tiefbau_Grundlagen
+    ≥       B27_Marketing_Grundlagen
+    ≥       B28_Logistik_Grundlagen
+    ≥       B29_Controlling_Grundlagen
+    ≥       B30_Steuerlehre_mit_Schwerpunkt_Bauwesen
+    ≥       B31_Bauverfahrenstechnik
+    ≥       B32_Marketing_Vertiefung
+    ≥       B33_Wahlpflichtmodul_I
+    ≥       ≥   B33-01_Verkehrswege-_und_Tiefbau_Vertiefung
+    ≥       ≥   B33-02_Projekt_im_Ingenieurbau
+    ≥       B34_Wahlpflichtmodul_II
+    ≥       ≥   B34-01_Bau-Logistik
+    ≥       ≥   B34-02_QualitÑtsmanagement_im_Bauwesen
+    ≥       B35_Wahlpflichtmodul_III
+    ≥       ≥   B35-01_Controlling_Vertiefung
+    ≥       ≥   B35-02_Betriebliche_Anwendungssysteme
+    ≥       B36_Studium_Generale_I
+    ≥       B37_Studium_Generale_II
+    ≥       B38_Praxisphase
+    ≥       B39_AbschlussprÅfung
+    ≥           B39.1_Bachelorarbeit
+    ≥           B39.2_MÅndliche_AbschlussprÅfung
+    Master
+    ≥   Geodatenerfassung und -visualisierung (auslaufend WiSe1415)
+    ≥   ≥   M01_Geodatenbanken_und_-datenverarbeitung
+    ≥   ≥   M02_Mathematik
+    ≥   ≥   M03_Studium_Generale_I
+    ≥   ≥   M04_Studium_Generale_II
+    ≥   ≥   M05_Studienschwerpunktmodul_I
+    ≥   ≥   ≥   M05.SP1.01_Mathematische_Methoden_der_Hîheren_GeodÑsie
+    ≥   ≥   ≥   M05.SP2.01_Kommunikation_und_Geodatenvisualisierung
+    ≥   ≥   M06_Studienschwerpunktmodul_II
+    ≥   ≥   ≥   M06.SP1.02_Projektarbeit_Datenaufnahme
+    ≥   ≥   ≥   M06.SP2.02_Kartographische_Produktkonzeption
+    ≥   ≥   M07_Studienschwerpunktmodul_III
+    ≥   ≥   ≥   M07.SP1.03_Geographische_Informationssysteme
+    ≥   ≥   ≥   M07.SP2.03_Geostatistik
+    ≥   ≥   M08_Controlling
+    ≥   ≥   M09_Digitale_Photogrammetrie_und_Bildverarbeitung
+    ≥   ≥   M10_GIS-Projektmanagement
+    ≥   ≥   M11_Wahlpflichtmodul_I
+    ≥   ≥   ≥   WP01_GIS-Anwendungen_in_EntwicklungslÑndern
+    ≥   ≥   ≥   WP02_GIS-Programmierung
+    ≥   ≥   ≥   WP03_GIS_und_Gesundheit
+    ≥   ≥   ≥   WP04_Mobiles_GIS
+    ≥   ≥   ≥   WP05_Facility_Management
+    ≥   ≥   ≥   WP06_Projektarbeit_Photogrammetrie
+    ≥   ≥   ≥   WP07_Deformationsanalysen
+    ≥   ≥   ≥   WP08_Interaktive_virtuelle_Landschaften_(dynamische Visualisierung)
+    ≥   ≥   ≥   WP09_3D-Analysetechniken
+    ≥   ≥   ≥   WP10_Satellitenpositionierung_bewegter_Objekte
+    ≥   ≥   M12_Studienschwerpunktmodul_IV
+    ≥   ≥   ≥   M12.SP1.04_Projektarbeit_Datenauswertung
+    ≥   ≥   ≥   M12.SP2.04_Multimediale_Kommunikation
+    ≥   ≥   M13_Studienschwerpunktmodul_V
+    ≥   ≥   ≥   M13.SP1.05_Erdmessung
+    ≥   ≥   ≥   M13.SP2.05_GIS-Kartographie
+    ≥   ≥   M14_Analyse_von_Fernerkundungsdaten
+    ≥   ≥   M15_Unternehmens-_und_PersonalfÅhrung
+    ≥   ≥   M16_Wahlpflichtmodul_II
+    ≥   ≥   M17_Studienschwerpunktmodul_VI
+    ≥   ≥   ≥   M17.SP1.06_SatellitengeodÑsie
+    ≥   ≥   ≥   M17.SP2.06_Umwelt-Monitoring
+    ≥   ≥   M18_Studienschwerpunktmodul_VII
+    ≥   ≥   ≥   M18.SP1.07_Ingenieurvermessung
+    ≥   ≥   ≥   M18.SP2.07_Satellitenbildkartographie
+    ≥   ≥   M19_Studienschwerpunktmodul_VIII
+    ≥   ≥   ≥   M19.SP1.08_Liegenschaftswesen
+    ≥   ≥   ≥   M19.SP2.08_Aktuelle_Themen_der_Kartographie
+    ≥   ≥   M20_AbschlussprÅfung
+    ≥   ≥       M20.1_Master-Arbeit
+    ≥   ≥       M20.2_MÅndliche_AbschlussprÅfung
+    ≥   Geoinformation
+    ≥   Geoinformation (auslaufend WiSe1415)
+    ≥   Konstruktiver Hoch- und Ingenieurbau
+    ≥   Umweltinformation GIS
+    ≥   Urbane Infrastrukturplanung Verkehr und Wasser
+    ≥   Wirtschaftsingenieurwesen Bautechnik und -management
+    StudiumGenerale
+        Modulname
