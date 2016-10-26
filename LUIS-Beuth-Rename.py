@@ -10,7 +10,7 @@ import csv as csv
 -Öffnen der Ursprungsdatei (Vorschau)
 """
 class Application(Frame):
-    
+    #Design des Fensters und deren Darstellung
     def __init__(self, parent):
         Frame.__init__(self, parent)        
        
@@ -66,7 +66,7 @@ class Application(Frame):
         self.drop_refresh()
         self.mainmenu()
     
-    
+    #Create
     def create_widgets(self):
         self.abschluss_l = Label(root,text="Abschluss:  ")
         self.abschluss_l.grid(row=0,column=0,sticky='w')
