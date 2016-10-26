@@ -149,15 +149,16 @@ class Application(Frame):
             os.makedirs(self.EndPath)
             
     def add_modul(self):
+        self.create_window_modul()  
         eintrag = self.var_modul.get()
         if not eintrag in self.lst_modul:
             
             self.lst_modul.append(eintrag)
-        print(eintrag,self.lst_modul)
+        #print(eintrag,self.lst_modul)
         self.drop_refresh()
             
     def add_dozent(self):
-        self.create_window()        
+        self.create_window_dozent()        
         eintrag = self.var_dozent.get()
         if not eintrag in self.lst_dozent:
             self.lst_dozent.append(eintrag)
@@ -184,7 +185,7 @@ class Application(Frame):
 
         editmenu = Menu(menubar, tearoff=0)
         editmenu.add_command(label="Dozent hinzufügen", command=self.add_dozent)
-        editmenu.add_command(label="Modul hinzufügen", command=self.donothing)
+        editmenu.add_command(label="Modul hinzufügen", command=self.add_modul)
         editmenu.add_command(label="Noch nicht genutzt", command=self.donothing)
        
         menubar.add_cascade(label="Bearbeiten", menu=editmenu)
@@ -198,12 +199,19 @@ class Application(Frame):
         button = Button(root, text="Do nothing button")
         button.pack()
        
-    def create_window(self):
+    def create_window_dozent(self):
         t = Toplevel(self)
         t.wm_attributes('-topmost',-1)
-        t.wm_title("Window" )
-        l = Label(t, text="This is window " )
+        t.wm_title("Dozenten anpassen" )
+        l = Label(t, text="Fenster für neue Dozenten" )
         l.pack(side="top", fill="both", expand=True, padx=100, pady=100)      
+
+    def create_window_modul(self):
+        t = Toplevel(self)
+        t.wm_attributes('-topmost',-1)
+        t.wm_title("Module anpassen" )
+        l = Label(t, text="Fenster für neue Module" )
+        l.pack(side="top", fill="both", expand=True, padx=100, pady=100)
       
 root = Tk()
 root.title("LUIS Beuth Renamer") 
