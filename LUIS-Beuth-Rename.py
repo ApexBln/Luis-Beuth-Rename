@@ -30,13 +30,24 @@ class Application(Frame):
             for row in csv.reader(csvfile):
                     self.total_content.append(row)
         self.lst_abschluss=self.total_content[0]
-        self.lst_studiengang=self.total_content[1]
-        self.lst_modul=self.total_content[2]
-        self.lst_semester=self.total_content[4]
-        self.lst_dozent=self.total_content[3]
-        self.lst_przr=self.total_content[5]
-        self.lst_version=self.total_content[6]
-        self.lst_note=self.total_content[7]
+        self.lst_abschluss_mod=self.total_content[0]        
+        self.lst_studiengang_BA=self.total_content[1]
+        self.lst_studiengang_MA=self.total_content[2]
+        
+        #Modulnamen weiter anpassen
+        self.lst_module_BA_Bau=self.total_content[3]
+        self.lst_module_BA_Bau=self.total_content[4]
+        self.lst_module_BA_Bau=self.total_content[5]
+        self.lst_module_BA_Bau=self.total_content[6]
+        self.lst_module_MA_Bau=self.total_content[7]
+        self.lst_module_MA_Bau=self.total_content[8]
+        self.lst.module_MA_Bau=self.total_content[9]
+        self.lst_module_MA_Bau=self.total_content[10]
+        self.lst_semester=self.total_content[11]
+        self.lst_dozent=self.total_content[12]
+        self.lst_przr=self.total_content[13]
+        self.lst_version=self.total_content[14]
+        self.lst_note=self.total_content[15]
         #print(self.lst_abschluss)
         #print(self.lst_studiengang)
                              
@@ -105,6 +116,7 @@ class Application(Frame):
     def drop_refresh(self):                             
         self.drop_abschluss = ttk.Combobox(root,textvariable=self.var_abschluss,values=self.lst_abschluss)
         self.drop_abschluss.grid(row=0,column=1)
+        
         self.drop_studiengang = ttk.Combobox(root,textvariable=self.var_studiengang,values=self.lst_studiengang)
         self.drop_studiengang.grid(row=1,column=1)
         self.drop_modul = ttk.Combobox(root,textvariable=self.var_modul,values=self.lst_modul)
@@ -119,6 +131,8 @@ class Application(Frame):
         self.drop_version.grid(row=6,column=1)
         self.drop_note = ttk.Combobox(root,textvariable=self.var_note,values=self.lst_note)
         self.drop_note.grid(row=7,column=1)
+        
+            
         
     def mainmenu(self):
         filemenu = Menu(menubar, tearoff=0)
@@ -185,28 +199,8 @@ class Application(Frame):
         l = Label(t, text="Impressum, etc" )
         l.pack(side="top", fill="both", expand=True)
 
-    def add_modul(self):
-        popup_add_modul = Toplevel(root)
-        popup_add_modul.wm_attributes('-topmost',-1)
-        popup_add_modul.wm_title("Modul hinzufügen" )
-        popup_add_modul.wm_geometry('250x100+10+500')
-        #popup_add_dozent = Label(self.popup_add_dozent, text="Hier könnte ein Fließtext stehen" )
-        
-        Label(popup_add_modul, text="Modulnummer").grid(row=0)
-        Label(popup_add_modul, text="Modulname").grid(row=1)
-        
-        modulnummer = Entry(popup_add_modul)
-        modulnummer.grid(row=0, column=1)
-        
-        modulname = Entry(popup_add_modul)
-        modulname.grid(row=1, column=1)
-        
-        # Hier muss noch die übergabe an die CSV gemacht werden.
-        # GGF ein weiters Popup mit der frage ob es übernommen werden soll
-        Eingabeende = Button(popup_add_modul,text="übernehmen", command=self.donothing)
-        Eingabeende.grid(row=4, column=1)
-
     def add_dozent(self):
+        self.drop_refresh()
         popup_add_dozent = Toplevel(root)
         popup_add_dozent.wm_attributes('-topmost',-1)
         popup_add_dozent.wm_title("Dozent hinzufügen" )
@@ -223,17 +217,35 @@ class Application(Frame):
         Eingabeende = Button(popup_add_dozent,text="übernehmen", command=self.donothing)
         Eingabeende.grid(row=4, column=1)
 
-    def del_modul(self):
-        self.popup_del_modul = Toplevel(root)
-        self.popup_del_modul.wm_attributes('-topmost',-1)
-        self.popup_del_modul.wm_title("Modul entfernen" )
-        self.popup_del_modul.wm_geometry('250x100+260+500')
-        #popup_del_dozent = Label(self.popup_add_dozent, text="Hier könnte ein Fließtext stehen" )
+    def add_modul(self):
+        self.drop_refresh()        
+        popup_add_modul = Toplevel(root)
+        popup_add_modul.wm_attributes('-topmost',-1)
+        popup_add_modul.wm_title("Modul hinzufügen" )
+        popup_add_modul.wm_geometry('300x100+10+500')
+        #popup_add_dozent = Label(self.popup_add_dozent, text="Hier könnte ein Fließtext stehen" )
         
-       
+        Label(popup_add_modul, text="Abschluss  ").grid(row=0,column=0,sticky='w')
+        Label(popup_add_modul, text="Studiengang  ").grid(row=1,column=0,sticky='w')
+        Label(popup_add_modul, text="Modulname  ").grid(row=2,column=0,sticky='w')
+        
+        drop_abschluss = ttk.Combobox(popup_add_modul,textvariable=self.var_abschluss,values=self.lst_abschluss)
+        drop_abschluss.grid(row=0,column=1)
+        if drop_abschluss.get() == "Bachelor":
+            drop_studiengang = ttk.Combobox(popup_add_modul,textvariable=self.var_studiengang_BA,values=self.lst_studiengang)
+            drop_studiengang.grid(row=1,column=1) 
+        elif drop_abschluss.get() == "Master":
+            drop_studiengang = ttk.Combobox(popup_add_modul,textvariable=self.var_studiengang_MA,values=self.lst_studiengang)
+            drop_studiengang.grid(row=1,column=1)        
+        else: 
+            print ('Bitte Abschluss angeben')  
+        
+        modulname = Entry(popup_add_modul)
+        modulname.grid(row=2, column=1)
+        
         # Hier muss noch die übergabe an die CSV gemacht werden.
         # GGF ein weiters Popup mit der frage ob es übernommen werden soll
-        Eingabeende = Button(self.popup_del_modul,text="übernehmen", command=self.donothing)
+        Eingabeende = Button(popup_add_modul,text="übernehmen", command=self.donothing)
         Eingabeende.grid(row=4, column=1)
 
     def del_dozent(self):
@@ -252,6 +264,21 @@ class Application(Frame):
         # GGF ein weiters Popup mit der frage ob es übernommen werden soll
         Eingabeende = Button(popup_del_dozent,text="übernehmen", command=self.donothing)
         Eingabeende.grid(row=4, column=1)
+
+    def del_modul(self):
+        self.popup_del_modul = Toplevel(root)
+        self.popup_del_modul.wm_attributes('-topmost',-1)
+        self.popup_del_modul.wm_title("Modul entfernen" )
+        self.popup_del_modul.wm_geometry('250x100+260+500')
+        #popup_del_dozent = Label(self.popup_add_dozent, text="Hier könnte ein Fließtext stehen" )
+        
+       
+        # Hier muss noch die übergabe an die CSV gemacht werden.
+        # GGF ein weiters Popup mit der frage ob es übernommen werden soll
+        Eingabeende = Button(self.popup_del_modul,text="übernehmen", command=self.donothing)
+        Eingabeende.grid(row=4, column=1)
+
+    
 
 
 root = Tk()
