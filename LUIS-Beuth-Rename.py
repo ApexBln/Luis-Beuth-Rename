@@ -41,7 +41,7 @@ class Application(Frame):
         self.lst_module_BA_GeoInfo=self.total_content[6]
         self.lst_module_MA_WiIng=self.total_content[7]
         self.lst_module_MA_BauIng=self.total_content[8]
-        self.lst.module_MA_GeoInfo=self.total_content[9]
+        self.lst_module_MA_GeoInfo=self.total_content[9]
         self.lst_module_MA_UmweltIng=self.total_content[10]
         self.lst_semester=self.total_content[11]
         self.lst_dozent=self.total_content[12]
@@ -142,7 +142,7 @@ class Application(Frame):
         filemenu.add_command(label="Save as...", command=self.donothing)
         filemenu.add_command(label="Close", command=self.donothing)      
         filemenu.add_separator()      
-        filemenu.add_command(label="Exit", command=self.donothing)    
+        filemenu.add_command(label="Exit", command=self.close_app)    
         menubar.add_cascade(label="Datei", menu=filemenu)
 
         editmenu = Menu(menubar, tearoff=0)
@@ -157,7 +157,10 @@ class Application(Frame):
         helpmenu.add_command(label="Help Index", command=self.donothing)
         helpmenu.add_command(label="About...", command=self.about)
         menubar.add_cascade(label="About", menu=helpmenu)
-
+    
+    def close_app(self):
+        root.destroy()
+        
     def donothing(self):
         button = Button(root, text="Do nothing button")
         button.pack()
